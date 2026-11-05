@@ -4,7 +4,7 @@ Team: Arianna Falasca, Max Chen, Nanalin Sangthong, Taha Saeed and Willance Zhen
 
 ## Arianna Falasca
 
-Arianna proposed the topic, title and initial plan with ChatGPT assistance and prepared the first Part A deck with Muse. That deck was subsequently replaced by the team's final presentation. She participated in presenting the team project. The final Python analysis, interactive page and Tableau workbook are not presented as Arianna's individual implementation.
+Arianna initiated the topic, title and first project plan with ChatGPT support, prepared the first proposal deck with Muse, and presented her section of the team pitch. Her portfolio emphasis is initiative, creative framing and participation in consumer-oriented data storytelling and presentation. The final deck replaced the initial proposal deck; final analysis, story implementation and technical ownership are credited below.
 
 ## Analysis and presentation
 
