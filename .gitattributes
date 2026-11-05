@@ -1,0 +1,2 @@
+# Keep generated presentation assets out of GitHub language statistics.
+*.html linguist-detectable=false

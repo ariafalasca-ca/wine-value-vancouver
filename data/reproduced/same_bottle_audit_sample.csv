@@ -1,0 +1,101 @@
+sample_id,country,bc_name,we_title,judgement,still_matched
+1,France,BORDEAUX BLANC - CLARENDELLE,Clarendelle 2016  Bordeaux Blanc,same,True
+2,US,CABERNET SAUVIGNON - BLACK STALLION ESTATE WINERY,Black Stallion 2009 Estate Cabernet Sauvignon (Napa Valley),same,True
+3,France,ST ESTEPHE - LA DAME DE MONTROSE 2018,Château Montrose 2014 La Dame de Montrose  (Saint-Estèphe),same,True
+4,France,VOSNE ROMANEE - LOUIS LATOUR 2020,Louis Latour 2012  Vosne-Romanée,same,True
+5,Italy,BARBERA D'ALBA - CONTERNO FANTINO VIGNOTA,Conterno Fantino 2014 Vignota  (Barbera d'Alba),same,True
+6,Italy,BAROLO - G.D. VAJRA RAVERA,G D Vajra 2011 Ravera  (Barolo),same,True
+7,US,ZINFANDEL - SEVEN DEADLY ZINS LODI OLD VINE,Seven Deadly Zins 2011 Old Vine Zinfandel (Lodi),same,True
+8,New Zealand,PINOT NOIR - STONELEIGH MARLBOROUGH 2018,Stoneleigh 2009 Pinot Noir (Marlborough),same,True
+9,US,CHARDONNAY - STERLING VINTNER'S COLLECTION,Sterling 2008 Vintner's Collection Chardonnay (Central Coast),same,True
+10,US,(REPACK) SAUVIGNON BLANC - JOEL GOTT,Joel Gott 2009 Sauvignon Blanc (California),same,True
+11,Chile,PINOT NOIR - UNDURRAGA GRAN RESERVA SIBARIS LEYDA VALLEY,Undurraga 2014 Gran Reserva Sibaris Pinot Noir (Leyda Valley),same,True
+12,US,PINOT GRIGIO - BAREFOOT CELLARS,Barefoot Cellars NV Pinot Grigio (California),same,True
+13,Chile,CARMENERE - CARMEN GRAN RESERVA APALTA,Carmen 2012 Gran Reserva Apalta Carmenère (Colchagua Valley),same,True
+14,Italy,BAROLO - AZELIA 2019,Azelia 2012  Barolo,same,True
+15,Chile,CARMENERE - SAN PEDRO 1865 SINGLE VINEYARD MAULE 2020,San Pedro 2012 1865 Single Vineyard Carmenère (Maule Valley),same,True
+16,France,MEURSAULT - LOUIS LATOUR 2021,Louis Latour 2009  Meursault,same,True
+17,Italy,PINOT GRIGIO DELLE VENEZIE - DANZANTE,Danzante 2001 Pinot Grigio (Delle Venezie),same,True
+18,Chile,SYRAH - BISQUERTT LA JOYA GRAN RESERVA COLCHAGUA 2017,Viña Bisquertt 2015 La Joya Gran Reserva Syrah (Colchagua Valley),same,True
+19,France,BOURGOGNE PINOT NOIR - JOSEPH DROUHIN 2022,Joseph Drouhin 2010  Rully,different,False
+20,Germany,RIESLING TROCKEN BRAUNEBERGER - FRITZ HAAG 2021,Fritz Haag 2013 Brauneberger Trocken Riesling (Mosel),same,True
+21,US,CHARDONNAY - WOODBRIDGE,Woodbridge 2000 Chardonnay (California),same,True
+22,US,CABERNET SAUVIGNON - SEBASTIANI CALIFORNIA,Sebastiani 2008 Cabernet Sauvignon (Sonoma County),unsure,True
+23,Argentina,CABERNET SAUVIGNON - TRIVENTO RESERVE MENDOZA,Trivento 2014 Reserve Cabernet Sauvignon (Mendoza),same,True
+24,Italy,BRUNELLO DI MONTALCINO - PADELLETTI,Padelletti 2008  Brunello di Montalcino,same,True
+25,France,COTES DU RHONE - DOMAINE MABY VARIATIONS ORGANIC,Domaine Maby 2013 Variations Red (Côtes du Rhône),same,True
+26,New Zealand,SAUVIGNON BLANC - STONELEIGH MARLBOROUGH,Stoneleigh 2008 Sauvignon Blanc (Marlborough),same,True
+27,US,MERLOT - DUCKHORN NAPA 2017,Duckhorn 2010 Merlot (Napa Valley),same,True
+28,France,MEURSAULT - JOSEPH DROUHIN 2023,Joseph Drouhin 2010  Meursault,same,True
+29,US,PINOT NOIR - CAMBRIA JULIA'S VINEYARD SANTA MARIA,Cambria 2010 Julia's Vineyard Pinot Noir (Santa Maria Valley),same,True
+30,France,COTE DE BEAUNE ROUGE - JOSEPH DROUHIN,Joseph Drouhin 2010  Côte de Beaune,same,True
+31,US,CABERNET SAUVIGNON - WENTE SOUTHERN HILLS LIVERMORE,Wente 2008 Southern Hills Cabernet Sauvignon (Livermore Valley),same,True
+32,Chile,PINOT NOIR - CONO SUR OCIO,Cono Sur 2012 Ocio Pinot Noir (Casablanca Valley),same,True
+33,Spain,RIOJA RESERVA - BERONIA 2019,Beronia 2008 Reserva  (Rioja),same,True
+34,France,COTES DU RHONE BLANC - LOUIS BERNARD,Louis Bernard 2014 White (Côtes du Rhône),same,True
+35,France,COTE DE NUITS VILLAGES - JOSEPH DROUHIN,Joseph Drouhin 2010  Côte de Nuits-Villages,same,True
+36,US,(REPACK) PINOT NOIR - BELLE GLOS CLARK AND TELEPHONE 2018,Belle Glos 2006 Clark & Telephone Vineyard Pinot Noir (Santa Barbara County),same,True
+37,Australia,RIESLING - PENFOLDS BIN 51 EDEN VALLEY 2024,Penfolds 2012 Bin 51 Riesling (Eden Valley),same,True
+38,Italy,TOSCANA - FELSINA FONTALLORO 2018,Felsina 2010 Fontalloro Sangiovese (Toscana),same,True
+39,Italy,VERDICCHIO CLASSICO RISERVA - BUCCI VILLA BUCCI 2018,Bucci 2014 Villa Bucci Riserva  (Verdicchio dei Castelli di Jesi Classico),same,True
+40,US,(REPACK) CHARDONNAY - FERRARI CARANO SONOMA 2019,Ferrari-Carano 2012 Chardonnay (Sonoma County),same,True
+41,Argentina,CABERNET SAUVIGNON - MICHEL TORINO DON DAVID RESERVE,Michel Torino 2012 Don David Reserve Cabernet Sauvignon (Calchaquí Valley),same,True
+42,Italy,BARBERA D'ALBA - PIO CESARE,Pio Cesare 2004  Barbera d'Alba,same,True
+43,New Zealand,SAUVIGNON BLANC - CLOUDY BAY MARLBOROUGH 2025,Cloudy Bay 2014 Sauvignon Blanc (Marlborough),same,True
+44,South Africa,SAUVIGNON BLANC - TWO OCEANS,Two Oceans 2009 Sauvignon Blanc (Western Cape),same,True
+45,France,MACON LUGNY - LOUIS LATOUR LES GENIEVRES 2024,Louis Latour 2008 Genievres  (Mâcon-Lugny),same,True
+46,Spain,CARINENA GRAN RESERVA - MONASTERIO DE LAS VINAS,Monasterio de las Viñas 1999 Gran Reserva Red (Cariñena),same,True
+47,New Zealand,SAUVIGNON BLANC - WAIRAU RIVER MARLBOROUGH 2022,Wairau River 2013 Sauvignon Blanc (Marlborough),same,True
+48,France,PESSAC LEOGNAN - CHATEAU HAUT BAILLY ROUGE 2018,Château Haut-Bailly 2000 Pessac-Léognan  (Bordeaux),same,True
+49,US,MERLOT - COLUMBIA CREST GRAND ESTATES,Columbia Crest 2013 Grand Estates Merlot (Columbia Valley (WA)),same,True
+50,US,(REPACK) PINOT NOIR - PROPHECY,Prophecy 2014 Pinot Noir (California),same,True
+51,US,CABERNET SAUVIGNON - CARNIVOR,Carnivor 2012 Cabernet Sauvignon (California),same,True
+52,Italy,TOSCANA - RUFFINO MODUS 2022,Ruffino 2005 Modus Red (Toscana),same,True
+53,France,RIESLING - ZIND HUMBRECHT CLOS HAUSERER,Domaine Zind-Humbrecht 2015 Clos Häuserer Riesling (Alsace),same,True
+54,France,MEURSAULT - BOUCHARD PERE & FILS LES CLOUS 2020,Bouchard Père & Fils 2011 Les Clous  (Meursault),same,True
+55,Australia,SEMILLON - TYRRELL'S HUNTER VALLEY,Tyrrell's 2016 Semillon (Hunter Valley),same,True
+56,Australia,CABERNET SAUVIGNON - RINGBOLT MARGARET RIVER 17,Ringbolt 2014 Cabernet Sauvignon (Margaret River),same,True
+57,US,(REPACK) CHARDONNAY-DOMAINE DROUHIN ARTHUR DUNDEE HILLS 2022,Domaine Drouhin 2015 Arthur Chardonnay (Dundee Hills),same,True
+58,US,MERLOT - PEDESTAL COLUMBIA VALLEY 2016,Pedestal 2005 Merlot (Columbia Valley (WA)),same,True
+59,Italy,BAROLO - RENATO RATTI MARCENASCO 2020,Renato Ratti 2012 Marcenasco  (Barolo),same,True
+60,Italy,BAROLO - SANDRONE ALESTE,Sandrone 2013 Aleste  (Barolo),same,True
+61,Italy,CHIANTI - RUFFINO,Ruffino 2008  Chianti,same,True
+62,Portugal,DOURO - CASA FERREIRINHA BARCA VELHA,Casa Ferreirinha 2008 Barca-Velha Red (Douro),same,True
+63,Italy,AGLIANICO DEL VULTURE - BASILISCO TEODOSIO 2021,Basilisco 2011 Teodosio  (Aglianico del Vulture),same,True
+64,Australia,CHARDONNAY - YELLOW TAIL,Yellow Tail 2016 Chardonnay (South Eastern Australia),same,True
+65,Germany,MOSEL RIESLING SPATLESE - DR LOOSEN URZIGER WURZGARTEN,Dr. Loosen 2013 Ürziger Würzgarten Spätlese Riesling (Mosel),same,True
+66,Australia,CHARDONNAY - VASSE FELIX FILIUS,Vasse Felix 2016 Filius Chardonnay (Margaret River),same,True
+67,France,CHABLIS GRAND CRU LES PREUSES - DOMAINE WILLIAM FEVRE 2018,William Fèvre 2013 Les Preuses Grand Cru  (Chablis),same,True
+68,US,CABERNET SAUVIGNON - STERLING NAPA 2022,Sterling 2005 Cabernet Sauvignon (Napa Valley),same,True
+69,France,PETIT CHABLIS - PASCAL BOUCHARD BLANCS CAILLOUX,Pascal Bouchard 2015 Blancs Cailloux  (Petit Chablis),same,True
+70,Italy,PIEMONTE BARBERA - FONTANAFREDDA BRICCOTONDO,Fontanafredda 2015 Briccotondo Barbera (Piemonte),same,True
+71,Italy,TOSCANA - BIBI GRAETZ TESTAMATTA 2019,Bibi Graetz 2004 Testamatta Sangiovese (Toscana),same,True
+72,Argentina,MALBEC - LUCA,Luca 2006 Malbec (Altos de Mendoza),same,True
+73,Australia,SHIRAZ - WAKEFIELD CLARE VALLEY 2021,Wakefield 2005 Shiraz (Clare Valley),same,True
+74,Italy,SICILIA NERO D'AVOLA - CUSUMANO,Cusumano 2010 Nero d'Avola (Sicilia),same,True
+75,US,PETITE SIRAH - STAGS LEAP NAPA 2018,Stags' Leap Winery 2012 Petite Sirah (Napa Valley),same,True
+76,US,CHARDONNAY - BONTERRA ORGANIC MENDOCINO CTY 2021,Bonterra 2008 Chardonnay (Mendocino County),same,True
+77,France,VOLNAY 1ER EN CHEVRET - LOUIS LATOUR 2022,Louis Latour 2009 En Chevret  (Volnay),same,True
+78,US,PINOT NOIR - DIORA LA PETITE GRACE 2020,Diora 2014 La Petite Grace Pinot Noir (Monterey),same,True
+79,US,CHARDONNAY - RODNEY STRONG CALIFORNIA CHARDONNAY 2019,Rodney Strong 2014 Chardonnay (Sonoma Coast),unsure,True
+80,Italy,CHIANTI CLASSICO GRAN SELEZIONE - FELSINA COLONIA,Felsina 2010 Colonia Gran Selezione  (Chianti Classico),same,True
+81,France,BORDEAUX BLANC - MOUTON CADET,Mouton-Cadet 2007  Bordeaux Blanc,same,True
+82,Chile,PINOT NOIR - CONO SUR BICICLETA,Cono Sur 2015 Bicicleta Pinot Noir (Central Valley),same,True
+83,France,PESSAC LEOGNAN - CHATEAU MALARTIC LAGRAVIERE ROUGE 2018,Château Malartic-Lagravière 2000 Pessac-Léognan  (Bordeaux),same,True
+84,US,CABERNET SAUVIGNON - BERINGER KNIGHTS VALLEY 2020,Beringer 1998 Cabernet Sauvignon (Knights Valley),same,True
+85,Australia,SHIRAZ - MILES FROM NOWHERE,Miles From Nowhere 2011 Shiraz (Margaret River),same,True
+86,Argentina,MALBEC - DONA PAULA ESTATE MENDOZA UCO VALLEY,Doña Paula 2013 Estate Malbec (Mendoza),same,True
+87,France,CHASSAGNE MONTRACHET - PHILIPPE COLIN LES CHENES PINOT NOIR,Philippe Colin 2014 Les Chênes  (Chassagne-Montrachet),same,True
+88,US,ZINFANDEL - RAVENSWOOD LODI OLD VINE,Ravenswood 2013 Old Vine Zinfandel (Lodi),same,True
+89,US,CABERNET SAUVIGNON - LIBERTY SCHOOL PASO ROBLES 2020,Liberty School 2010 Cabernet Sauvignon (Paso Robles),same,True
+90,New Zealand,SAUVIGNON BLANC - GREYWACKE MARLBOROUGH 2024,Greywacke 2013 Sauvignon Blanc (Marlborough),same,True
+91,France,SANCERRE BLANC - HENRI BOURGEOIS 2025,Henri Bourgeois 2008 Le M.D. de Bourgeois  (Sancerre),different,True
+92,US,(REPACK)CABERNET SAUVIGNON - CANNONBALL 2021,Cannonball 2011 Cabernet Sauvignon (California),same,True
+93,US,CABERNET SAUVIGNON - TREANA,Treana 2014 Cabernet Sauvignon (Paso Robles),same,True
+94,France,RIESLING - ZIND HUMBRECHT ROCHE CALCAIRE 2020,Domaine Zind-Humbrecht 2015 Roche Calcaire Riesling (Alsace),same,True
+95,US,CABERNET SAUVIGNON - THREE THIEVES CALIFORNIA,Three Thieves 2013 Cabernet Sauvignon (California),same,True
+96,France,CHABLIS GRAND CRU BOUGROS - DOMAINE WILLIAM FEVRE 2018,William Fèvre 2005 Bougros Grand Cru  (Chablis),same,True
+97,France,ST EMILION - LE DRAGON DE QUINTUS ROUGE 2019,Château Quintus 2014 Le Dragon de Quintus  (Saint-Émilion),same,True
+98,Argentina,MALBEC - CATENA ZAPATA ARGENTINO 2022,Bodega Catena Zapata 2007 Argentino Malbec (Mendoza),same,True
+99,France,BOURGOGNE CHARDONNAY - LOUIS LATOUR 2024,Louis Latour 2000  Beaune,different,False
+100,Italy,CHIANTI CLASSICO - ISTINE,Istine 2010  Chianti Classico,same,True

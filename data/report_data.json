@@ -1,0 +1,2558 @@
+{
+ "Red": [
+  {
+   "group": "Portuguese Red, Portugal",
+   "n": 535,
+   "med": 20.0,
+   "cautious": 1.38,
+   "withA": 1.56,
+   "withoutB": 1.87,
+   "critic": "Roger Voss",
+   "cshare": 100
+  },
+  {
+   "group": "Shiraz, Australia",
+   "n": 166,
+   "med": 20.0,
+   "cautious": 0.98,
+   "withA": 1.28,
+   "withoutB": 1.61,
+   "critic": "Joe Czerwinski",
+   "cshare": 87
+  },
+  {
+   "group": "Malbec, France",
+   "n": 137,
+   "med": 20.0,
+   "cautious": 0.94,
+   "withA": 1.29,
+   "withoutB": 1.61,
+   "critic": "Roger Voss",
+   "cshare": 100
+  },
+  {
+   "group": "Malbec-Merlot, France",
+   "n": 39,
+   "med": 19.0,
+   "cautious": 0.85,
+   "withA": 1.44,
+   "withoutB": 1.71,
+   "critic": "Roger Voss",
+   "cshare": 100
+  },
+  {
+   "group": "Tinta de Toro, Spain",
+   "n": 41,
+   "med": 20.0,
+   "cautious": 0.83,
+   "withA": 1.93,
+   "withoutB": 1.62,
+   "critic": "Michael Schachner",
+   "cshare": 98
+  },
+  {
+   "group": "Cabernet Sauvignon, Australia",
+   "n": 93,
+   "med": 20.0,
+   "cautious": 0.7,
+   "withA": 1.05,
+   "withoutB": 1.45,
+   "critic": "Joe Czerwinski",
+   "cshare": 91
+  }
+ ],
+ "Red_worst": [
+  {
+   "group": "Pinot Noir, Argentina",
+   "n": 36,
+   "best": -1.27
+  },
+  {
+   "group": "Pinot Noir, France",
+   "n": 175,
+   "best": -1.21
+  }
+ ],
+ "White": [
+  {
+   "group": "Melon, France",
+   "n": 87,
+   "med": 18.0,
+   "cautious": 1.74,
+   "withA": 2.14,
+   "withoutB": 2.4,
+   "critic": "Roger Voss",
+   "cshare": 100
+  },
+  {
+   "group": "Riesling, Germany",
+   "n": 462,
+   "med": 20.0,
+   "cautious": 1.02,
+   "withA": 1.16,
+   "withoutB": 1.36,
+   "critic": "Anna Lee C. Iijima",
+   "cshare": 80
+  },
+  {
+   "group": "Riesling, Australia",
+   "n": 83,
+   "med": 19.0,
+   "cautious": 1.0,
+   "withA": 1.41,
+   "withoutB": 1.49,
+   "critic": "Joe Czerwinski",
+   "cshare": 67
+  },
+  {
+   "group": "Chardonnay, South Africa",
+   "n": 59,
+   "med": 20.0,
+   "cautious": 0.86,
+   "withA": 1.31,
+   "withoutB": 1.33,
+   "critic": "Lauren Buzzeo",
+   "cshare": 73
+  },
+  {
+   "group": "Turbiana, Italy",
+   "n": 77,
+   "med": 20.0,
+   "cautious": 0.78,
+   "withA": 1.5,
+   "withoutB": 1.2,
+   "critic": "Kerin O\u2019Keefe",
+   "cshare": 100
+  },
+  {
+   "group": "Riesling, Austria",
+   "n": 148,
+   "med": 22.0,
+   "cautious": 0.37,
+   "withA": 0.65,
+   "withoutB": 1.97,
+   "critic": "Anne Krebiehl\u00a0MW",
+   "cshare": 68
+  }
+ ],
+ "White_worst": [
+  {
+   "group": "Chardonnay, Argentina",
+   "n": 85,
+   "best": -1.11
+  },
+  {
+   "group": "Chardonnay, France",
+   "n": 427,
+   "best": -0.92
+  }
+ ],
+ "bc": [
+  {
+   "country": "France",
+   "variety": "Melon",
+   "match": "class France White Wine, name contains Muscadet",
+   "skus": 6,
+   "bc_med": 36.49,
+   "bc_q1": 33.74,
+   "bc_q3": 39.24,
+   "bc_share25": 17,
+   "us_med": 18.0
+  },
+  {
+   "country": "Portugal",
+   "variety": "Portuguese Red",
+   "match": "class Portugal Red Wine",
+   "skus": 23,
+   "bc_med": 18.99,
+   "bc_q1": 13.99,
+   "bc_q3": 32.99,
+   "bc_share25": 61,
+   "us_med": 20.0
+  },
+  {
+   "country": "Germany",
+   "variety": "Riesling",
+   "match": "class Germany White Wine, name contains Riesling",
+   "skus": 54,
+   "bc_med": 50.49,
+   "bc_q1": 31.49,
+   "bc_q3": 74.99,
+   "bc_share25": 19,
+   "us_med": 20.0
+  },
+  {
+   "country": "Australia",
+   "variety": "Riesling",
+   "match": "class Australia White Wine, name contains Riesling",
+   "skus": 3,
+   "bc_med": 24.99,
+   "bc_q1": 18.99,
+   "bc_q3": 37.49,
+   "bc_share25": 67,
+   "us_med": 19.0
+  },
+  {
+   "country": "Australia",
+   "variety": "Shiraz",
+   "match": "class Australia Red Wine, name contains Shiraz",
+   "skus": 57,
+   "bc_med": 22.99,
+   "bc_q1": 18.99,
+   "bc_q3": 36.99,
+   "bc_share25": 56,
+   "us_med": 20.0
+  },
+  {
+   "country": "France",
+   "variety": "Malbec",
+   "match": "class France Red Wine, name contains Malbec or Cahors",
+   "skus": 5,
+   "bc_med": 37.99,
+   "bc_q1": 34.99,
+   "bc_q3": 39.99,
+   "bc_share25": 20,
+   "us_med": 20.0
+  },
+  {
+   "country": "South Africa",
+   "variety": "Chardonnay",
+   "match": "class South Africa White Wine, name contains Chardonnay",
+   "skus": 1,
+   "bc_med": 13.99,
+   "bc_q1": 13.99,
+   "bc_q3": 13.99,
+   "bc_share25": 100,
+   "us_med": 20.0
+  },
+  {
+   "country": "Italy",
+   "variety": "Turbiana",
+   "match": "class Italy White Wine, name contains Lugana",
+   "skus": 1,
+   "bc_med": 28.99,
+   "bc_q1": 28.99,
+   "bc_q3": 28.99,
+   "bc_share25": 0,
+   "us_med": 20.0
+  },
+  {
+   "country": "Spain",
+   "variety": "Tinta de Toro",
+   "match": "class Spain Red Wine, name contains Toro",
+   "skus": 1,
+   "bc_med": 17.99,
+   "bc_q1": 17.99,
+   "bc_q3": 17.99,
+   "bc_share25": 100,
+   "us_med": 20.0
+  },
+  {
+   "country": "France",
+   "variety": "Pinot Noir",
+   "match": "France red, name contains Pinot Noir or Bourgogne",
+   "skus": 35,
+   "bc_med": 50.99,
+   "bc_q1": 44.980000000000004,
+   "bc_q3": 61.49,
+   "bc_share25": 3,
+   "us_med": 20.0
+  },
+  {
+   "country": "Argentina",
+   "variety": "Chardonnay",
+   "match": "class Argentina White Wine, name contains Chardonnay",
+   "skus": 18,
+   "bc_med": 19.99,
+   "bc_q1": 15.24,
+   "bc_q3": 38.99,
+   "bc_share25": 67,
+   "us_med": 19.0
+  },
+  {
+   "country": "Argentina",
+   "variety": "Pinot Noir",
+   "match": "class Argentina Red Wine, name contains Pinot Noir",
+   "skus": 2,
+   "bc_med": 18.99,
+   "bc_q1": 16.99,
+   "bc_q3": 20.99,
+   "bc_share25": 100,
+   "us_med": 19.5
+  }
+ ],
+ "lmr": {
+  "pre": "Apr 2024 \u2013 Mar 2025",
+  "post": "Jul 2025 \u2013 Jun 2026",
+  "rows": [
+   {
+    "origin": "USA",
+    "pre_ppl": 22.08,
+    "post_ppl": 32.71,
+    "d_price": 48.1,
+    "d_litres": -85.2
+   },
+   {
+    "origin": "Portugal",
+    "pre_ppl": 13.34,
+    "post_ppl": 13.01,
+    "d_price": -2.5,
+    "d_litres": 0.8
+   },
+   {
+    "origin": "Australia",
+    "pre_ppl": 13.38,
+    "post_ppl": 13.71,
+    "d_price": 2.4,
+    "d_litres": 6.8
+   },
+   {
+    "origin": "France",
+    "pre_ppl": 28.74,
+    "post_ppl": 29.92,
+    "d_price": 4.1,
+    "d_litres": 9.3
+   },
+   {
+    "origin": "Italy",
+    "pre_ppl": 21.02,
+    "post_ppl": 21.64,
+    "d_price": 2.9,
+    "d_litres": 3.7
+   },
+   {
+    "origin": "Spain",
+    "pre_ppl": 15.16,
+    "post_ppl": 14.78,
+    "d_price": -2.5,
+    "d_litres": 7.4
+   },
+   {
+    "origin": "Chile",
+    "pre_ppl": 10.75,
+    "post_ppl": 10.81,
+    "d_price": 0.6,
+    "d_litres": 10.7
+   },
+   {
+    "origin": "Argentina",
+    "pre_ppl": 15.52,
+    "post_ppl": 15.41,
+    "d_price": -0.7,
+    "d_litres": 20.4
+   },
+   {
+    "origin": "New Zealand",
+    "pre_ppl": 18.63,
+    "post_ppl": 18.36,
+    "d_price": -1.4,
+    "d_litres": 9.2
+   },
+   {
+    "origin": "Canada - BC",
+    "pre_ppl": 14.96,
+    "post_ppl": 15.49,
+    "d_price": 3.5,
+    "d_litres": 2.6
+   },
+   {
+    "origin": "All wine",
+    "pre_ppl": 16.68,
+    "post_ppl": 16.83,
+    "d_price": 0.9,
+    "d_litres": -2.9
+   }
+  ]
+ },
+ "inflation": {
+  "wine_cpi": {
+   "y2017": 167.915,
+   "y2026": 180.137,
+   "factor": 1.073
+  },
+  "headline_factor": 1.35,
+  "gap_invariance_max": 2.4e-11,
+  "scen": [
+   {
+    "label": "US$ as reviewed",
+    "k": 1.0,
+    "red_overlap": 10,
+    "red_rho": 1.0,
+    "red_top3": [
+     "Portuguese Red, Portugal",
+     "Shiraz, Australia",
+     "Malbec, France"
+    ],
+    "white_overlap": 10,
+    "white_rho": 1.0,
+    "white_top3": [
+     "Melon, France",
+     "Riesling, Germany",
+     "Riesling, Australia"
+    ]
+   },
+   {
+    "label": "Wine CPI, +7.3%",
+    "k": 1.073,
+    "red_overlap": 7,
+    "red_rho": 0.96,
+    "red_top3": [
+     "Portuguese Red, Portugal",
+     "Shiraz, Australia",
+     "Malbec-Merlot, France"
+    ],
+    "white_overlap": 8,
+    "white_rho": 0.95,
+    "white_top3": [
+     "Melon, France",
+     "Riesling, Australia",
+     "Riesling, Germany"
+    ]
+   },
+   {
+    "label": "Headline CPI, +35%",
+    "k": 1.35,
+    "red_overlap": 4,
+    "red_rho": 0.77,
+    "red_top3": [
+     "Portuguese Red, Portugal",
+     "Shiraz, Australia",
+     "Red Blend, South Africa"
+    ],
+    "white_overlap": 7,
+    "white_rho": 0.88,
+    "white_top3": [
+     "Riesling, Australia",
+     "Riesling, Germany",
+     "Melon, France"
+    ]
+   }
+  ]
+ },
+ "origin_premium": {
+  "n": 111538,
+  "r2": 0.506,
+  "per_point": 12.2,
+  "rows": [
+   {
+    "country": "Chile",
+    "n": 4130,
+    "pct": -28.5,
+    "lo": -29.6,
+    "hi": -27.4
+   },
+   {
+    "country": "Portugal",
+    "n": 4502,
+    "pct": -22.4,
+    "lo": -24.7,
+    "hi": -20.0
+   },
+   {
+    "country": "South Africa",
+    "n": 1195,
+    "pct": -21.7,
+    "lo": -23.8,
+    "hi": -19.6
+   },
+   {
+    "country": "Argentina",
+    "n": 3501,
+    "pct": -19.7,
+    "lo": -21.2,
+    "hi": -18.1
+   },
+   {
+    "country": "New Zealand",
+    "n": 1240,
+    "pct": -14.3,
+    "lo": -16.1,
+    "hi": -12.6
+   },
+   {
+    "country": "Australia",
+    "n": 2169,
+    "pct": -14.3,
+    "lo": -16.4,
+    "hi": -12.1
+   },
+   {
+    "country": "Spain",
+    "n": 6049,
+    "pct": -12.5,
+    "lo": -14.2,
+    "hi": -10.8
+   },
+   {
+    "country": "Austria",
+    "n": 2536,
+    "pct": -4.5,
+    "lo": -6.6,
+    "hi": -2.3
+   },
+   {
+    "country": "France",
+    "n": 16286,
+    "pct": -1.1,
+    "lo": -2.2,
+    "hi": -0.1
+   },
+   {
+    "country": "Italy",
+    "n": 15506,
+    "pct": 1.2,
+    "lo": -0.2,
+    "hi": 2.5
+   },
+   {
+    "country": "Germany",
+    "n": 1951,
+    "pct": 14.1,
+    "lo": 10.7,
+    "hi": 17.5
+   }
+  ]
+ },
+ "tax": {
+  "pst": 10,
+  "gst": 5,
+  "deposit_note": "refundable container deposit added at checkout"
+ },
+ "styles": {
+  "order": [
+   "Red",
+   "White",
+   "Ros\u00e9",
+   "Sparkling",
+   "Fortified & dessert"
+  ],
+  "counts": {
+   "Red": 65401,
+   "White": 33040,
+   "Ros\u00e9": 3835,
+   "Sparkling": 4743,
+   "Fortified & dessert": 1400,
+   "Unclassified": 3119
+  },
+  "unclassified_pct": 2.8,
+  "gapA": {
+   "Red": -0.05,
+   "White": 0.13,
+   "Ros\u00e9": -0.47,
+   "Sparkling": 0.04,
+   "Fortified & dessert": 0.68
+  },
+  "gapB": {
+   "Red": -0.1,
+   "White": 0.2,
+   "Ros\u00e9": -0.49,
+   "Sparkling": 0.12,
+   "Fortified & dessert": 0.85
+  }
+ },
+ "year_check": {
+  "Red": {
+   "overlap": 10,
+   "rank_corr": 0.98
+  },
+  "White": {
+   "overlap": 9,
+   "rank_corr": 0.99
+  }
+ },
+ "r2": {
+  "A": 0.439,
+  "B": 0.406
+ },
+ "n": {
+  "n_raw": 129971,
+  "n_dup": 9983,
+  "n_unique": 119988,
+  "n_used": 111538,
+  "n_critics": 19
+ },
+ "country_ab": {
+  "Argentina": {
+   "n": 3501,
+   "A": -0.22,
+   "B": -0.6
+  },
+  "Australia": {
+   "n": 2169,
+   "A": 0.27,
+   "B": 0.59
+  },
+  "Austria": {
+   "n": 2536,
+   "A": 0.25,
+   "B": 1.62
+  },
+  "Chile": {
+   "n": 4130,
+   "A": -0.0,
+   "B": -0.38
+  },
+  "France": {
+   "n": 16286,
+   "A": -0.23,
+   "B": 0.14
+  },
+  "Germany": {
+   "n": 1951,
+   "A": 0.83,
+   "B": 1.04
+  },
+  "Italy": {
+   "n": 15506,
+   "A": 0.27,
+   "B": 0.01
+  },
+  "Portugal": {
+   "n": 4502,
+   "A": 0.65,
+   "B": 0.93
+  },
+  "Spain": {
+   "n": 6049,
+   "A": 0.19,
+   "B": -0.19
+  },
+  "US": {
+   "n": 50238,
+   "A": -0.13,
+   "B": -0.21
+  }
+ },
+ "coverage": [
+  {
+   "country": "US",
+   "n": 50238,
+   "top_critic": "Virginie Boone",
+   "top": 17.3,
+   "other": 50.9,
+   "none": 31.8,
+   "top_n": 8682,
+   "other_n": 25584,
+   "none_n": 15972
+  },
+  {
+   "country": "France",
+   "n": 16286,
+   "top_critic": "Roger Voss",
+   "top": 81.0,
+   "other": 17.5,
+   "none": 1.5,
+   "top_n": 13186,
+   "other_n": 2855,
+   "none_n": 245
+  },
+  {
+   "country": "Italy",
+   "n": 15506,
+   "top_critic": "Kerin O\u2019Keefe",
+   "top": 57.3,
+   "other": 1.6,
+   "none": 41.1,
+   "top_n": 8885,
+   "other_n": 245,
+   "none_n": 6376
+  },
+  {
+   "country": "Spain",
+   "n": 6049,
+   "top_critic": "Michael Schachner",
+   "top": 98.8,
+   "other": 0.1,
+   "none": 1.1,
+   "top_n": 5979,
+   "other_n": 6,
+   "none_n": 64
+  },
+  {
+   "country": "Portugal",
+   "n": 4502,
+   "top_critic": "Roger Voss",
+   "top": 99.3,
+   "other": 0.6,
+   "none": 0.1,
+   "top_n": 4469,
+   "other_n": 28,
+   "none_n": 5
+  },
+  {
+   "country": "Chile",
+   "n": 4130,
+   "top_critic": "Michael Schachner",
+   "top": 96.7,
+   "other": 0.6,
+   "none": 2.7,
+   "top_n": 3995,
+   "other_n": 24,
+   "none_n": 111
+  },
+  {
+   "country": "Argentina",
+   "n": 3501,
+   "top_critic": "Michael Schachner",
+   "top": 99.9,
+   "other": 0.0,
+   "none": 0.1,
+   "top_n": 3499,
+   "other_n": 0,
+   "none_n": 2
+  },
+  {
+   "country": "Austria",
+   "n": 2536,
+   "top_critic": "Anne Krebiehl\u00a0MW",
+   "top": 68.7,
+   "other": 31.0,
+   "none": 0.3,
+   "top_n": 1743,
+   "other_n": 785,
+   "none_n": 8
+  },
+  {
+   "country": "Australia",
+   "n": 2169,
+   "top_critic": "Joe Czerwinski",
+   "top": 87.0,
+   "other": 0.0,
+   "none": 13.0,
+   "top_n": 1886,
+   "other_n": 1,
+   "none_n": 282
+  },
+  {
+   "country": "Germany",
+   "n": 1951,
+   "top_critic": "Anna Lee C. Iijima",
+   "top": 81.0,
+   "other": 17.6,
+   "none": 1.4,
+   "top_n": 1580,
+   "other_n": 344,
+   "none_n": 27
+  }
+ ],
+ "same_bottle": {
+  "candidates": 470,
+  "accepted": 457,
+  "by_country": [
+   {
+    "country": "Argentina",
+    "n": 28,
+    "median_ratio": 1.3,
+    "q1": 1.22,
+    "q3": 1.52,
+    "we_med": 15.0,
+    "bc_med": 19.99
+   },
+   {
+    "country": "Australia",
+    "n": 27,
+    "median_ratio": 1.58,
+    "q1": 1.33,
+    "q3": 1.78,
+    "we_med": 19.0,
+    "bc_med": 28.99
+   },
+   {
+    "country": "Austria",
+    "n": 1,
+    "median_ratio": 1.53,
+    "q1": 1.53,
+    "q3": 1.53,
+    "we_med": 64.0,
+    "bc_med": 97.99
+   },
+   {
+    "country": "Chile",
+    "n": 24,
+    "median_ratio": 1.23,
+    "q1": 1.16,
+    "q3": 1.4,
+    "we_med": 14.5,
+    "bc_med": 17.24
+   },
+   {
+    "country": "France",
+    "n": 92,
+    "median_ratio": 1.76,
+    "q1": 1.45,
+    "q3": 2.56,
+    "we_med": 44.5,
+    "bc_med": 88.99
+   },
+   {
+    "country": "Germany",
+    "n": 10,
+    "median_ratio": 1.42,
+    "q1": 1.32,
+    "q3": 1.82,
+    "we_med": 34.0,
+    "bc_med": 57.99
+   },
+   {
+    "country": "Italy",
+    "n": 113,
+    "median_ratio": 1.5,
+    "q1": 1.24,
+    "q3": 1.83,
+    "we_med": 50.0,
+    "bc_med": 68.99
+   },
+   {
+    "country": "New Zealand",
+    "n": 26,
+    "median_ratio": 1.39,
+    "q1": 1.22,
+    "q3": 1.66,
+    "we_med": 18.5,
+    "bc_med": 24.99
+   },
+   {
+    "country": "Portugal",
+    "n": 8,
+    "median_ratio": 1.29,
+    "q1": 1.16,
+    "q3": 1.55,
+    "we_med": 12.0,
+    "bc_med": 13.74
+   },
+   {
+    "country": "South Africa",
+    "n": 3,
+    "median_ratio": 1.44,
+    "q1": 1.24,
+    "q3": 1.57,
+    "we_med": 18.0,
+    "bc_med": 18.49
+   },
+   {
+    "country": "Spain",
+    "n": 18,
+    "median_ratio": 1.47,
+    "q1": 1.29,
+    "q3": 1.81,
+    "we_med": 34.0,
+    "bc_med": 51.99
+   },
+   {
+    "country": "US",
+    "n": 107,
+    "median_ratio": 1.6,
+    "q1": 1.4,
+    "q3": 1.85,
+    "we_med": 24.0,
+    "bc_med": 30.49
+   }
+  ],
+  "origin_vs_France_matched": {
+   "Argentina": {
+    "US_price_pct_below_France": 4.0,
+    "BC_price_pct_below_France": 24.8,
+    "n": 28
+   },
+   "Australia": {
+    "US_price_pct_below_France": 10.5,
+    "BC_price_pct_below_France": 15.9,
+    "n": 27
+   },
+   "Austria": {
+    "US_price_pct_below_France": -58.1,
+    "BC_price_pct_below_France": -33.5,
+    "n": 1
+   },
+   "Chile": {
+    "US_price_pct_below_France": 22.7,
+    "BC_price_pct_below_France": 42.9,
+    "n": 24
+   },
+   "Germany": {
+    "US_price_pct_below_France": -16.8,
+    "BC_price_pct_below_France": -13.8,
+    "n": 10
+   },
+   "Italy": {
+    "US_price_pct_below_France": -7.8,
+    "BC_price_pct_below_France": 4.4,
+    "n": 113
+   },
+   "New Zealand": {
+    "US_price_pct_below_France": 19.1,
+    "BC_price_pct_below_France": 34.6,
+    "n": 26
+   },
+   "Portugal": {
+    "US_price_pct_below_France": 19.4,
+    "BC_price_pct_below_France": 38.9,
+    "n": 8
+   },
+   "South Africa": {
+    "US_price_pct_below_France": -4.2,
+    "BC_price_pct_below_France": 18.8,
+    "n": 3
+   },
+   "Spain": {
+    "US_price_pct_below_France": -4.7,
+    "BC_price_pct_below_France": 3.6,
+    "n": 18
+   },
+   "US": {
+    "US_price_pct_below_France": 13.7,
+    "BC_price_pct_below_France": 21.0,
+    "n": 107
+   }
+  },
+  "pct_per_point_matched": {
+   "US": 22.6,
+   "BC": 23.2
+  },
+  "n_matched_regression": 457,
+  "Portuguese red": {
+   "n": 5,
+   "bc_median": 37.99,
+   "gap_cautious_mean": 1.53,
+   "share_under_25": 40
+  },
+  "Australian Shiraz": {
+   "n": 10,
+   "bc_median": 39.99,
+   "gap_cautious_mean": 1.36,
+   "share_under_25": 40
+  }
+ },
+ "iowa": {
+  "n": 47,
+  "median_ratio": 1.81,
+  "q1": 1.56,
+  "q3": 2.0549999999999997,
+  "min": 1.11,
+  "max": 2.51,
+  "by_category": {
+   "100% AGAVE TEQUILA": 1.99,
+   "AMERICAN VODKAS": 2.24,
+   "CANADIAN WHISKIES": 1.18,
+   "COFFEE LIQUEURS": 1.48,
+   "CREAM LIQUEURS": 1.51,
+   "FLAVORED RUM": 1.93,
+   "IMPORTED BRANDIES": 2.43,
+   "IMPORTED CORDIALS & LIQUEUR": 1.66,
+   "IMPORTED DRY GINS": 1.38,
+   "IMPORTED VODKAS": 2.15,
+   "IRISH WHISKIES": 1.52,
+   "MIXTO TEQUILA": 2.16,
+   "SINGLE MALT SCOTCH": 1.81,
+   "SPICED RUM": 1.97,
+   "STRAIGHT BOURBON WHISKIES": 1.81,
+   "TENNESSEE WHISKIES": 1.61,
+   "WHISKEY LIQUEUR": 1.85,
+   "WHITE RUM": 1.78
+  },
+  "iowa_markup_cost_to_retail": 1.5,
+  "fx_note": "USD/CAD averaged about 1.39 in 2026 to date (June 2026 about 1.40 to 1.42), poundsterlinglive.com history page read on Oct 30, 2026",
+  "median_ratio_constant_currency_at_1.40": 1.29,
+  "canadian_whisky_constant_currency": 0.84
+ },
+ "shelf": [
+  {
+   "group": "Portuguese red",
+   "sku": 464388,
+   "name": "DOURO - VILA REGIA",
+   "list_june": 8.99,
+   "now": 9.99,
+   "regular_now": 9.99,
+   "promo": false,
+   "promo_end": null,
+   "stores": 100,
+   "change_vs_june": 1.0,
+   "regular_vs_june": 1.0,
+   "checked": "2026-10-30"
+  },
+  {
+   "group": "Portuguese red",
+   "sku": 25262,
+   "name": "SETUBAL - JOSE MARIA DA FONSECA PERIQUITA",
+   "list_june": 11.47,
+   "now": 10.47,
+   "regular_now": 13.49,
+   "promo": true,
+   "promo_end": "2026-11-21T00:00:00.000-07:00",
+   "stores": 1,
+   "change_vs_june": -1.0,
+   "regular_vs_june": 2.02,
+   "checked": "2026-10-30"
+  },
+  {
+   "group": "Portuguese red",
+   "sku": 736165,
+   "name": "LISBOA - CASA SANTOS LIMA LAB",
+   "list_june": 13.49,
+   "now": 13.49,
+   "regular_now": 13.49,
+   "promo": false,
+   "promo_end": null,
+   "stores": 164,
+   "change_vs_june": 0.0,
+   "regular_vs_june": 0.0,
+   "checked": "2026-10-30"
+  },
+  {
+   "group": "Portuguese red",
+   "sku": 114322,
+   "name": "DOURO - PORCA DE MURCA",
+   "list_june": 13.99,
+   "now": 13.99,
+   "regular_now": 13.99,
+   "promo": false,
+   "promo_end": null,
+   "stores": 29,
+   "change_vs_june": 0.0,
+   "regular_vs_june": 0.0,
+   "checked": "2026-10-30"
+  },
+  {
+   "group": "Portuguese red",
+   "sku": 95610,
+   "name": "DOURO - QUINTA DOS ACIPRESTES",
+   "list_june": 22.99,
+   "now": 23.99,
+   "regular_now": 23.99,
+   "promo": false,
+   "promo_end": null,
+   "stores": 6,
+   "change_vs_june": 1.0,
+   "regular_vs_june": 1.0,
+   "checked": "2026-10-30"
+  },
+  {
+   "group": "Australian Shiraz",
+   "sku": 624544,
+   "name": "SHIRAZ - YELLOW TAIL",
+   "list_june": 11.99,
+   "now": 13.99,
+   "regular_now": 13.99,
+   "promo": false,
+   "promo_end": null,
+   "stores": 198,
+   "change_vs_june": 2.0,
+   "regular_vs_june": 2.0,
+   "checked": "2026-10-30"
+  },
+  {
+   "group": "Australian Shiraz",
+   "sku": 161935,
+   "name": "SHIRAZ - WAKEFIELD CLARE VALLEY 2021",
+   "list_june": 15.99,
+   "now": 19.99,
+   "regular_now": 19.99,
+   "promo": false,
+   "promo_end": null,
+   "stores": 84,
+   "change_vs_june": 4.0,
+   "regular_vs_june": 4.0,
+   "checked": "2026-10-30"
+  },
+  {
+   "group": "Australian Shiraz",
+   "sku": 189415,
+   "name": "SHIRAZ - GEORGE WYNDHAM BIN 555",
+   "list_june": 15.99,
+   "now": 15.99,
+   "regular_now": 15.99,
+   "promo": false,
+   "promo_end": null,
+   "stores": 182,
+   "change_vs_june": 0.0,
+   "regular_vs_june": 0.0,
+   "checked": "2026-10-30"
+  },
+  {
+   "group": "Muscadet",
+   "sku": 411066,
+   "name": "MUSCADET SEVRE ET MAINE SUR LIE - CHATEAU DE LA GRAVELLE 23",
+   "list_june": 23.99,
+   "now": 23.99,
+   "regular_now": 23.99,
+   "promo": false,
+   "promo_end": null,
+   "stores": 63,
+   "change_vs_june": 0.0,
+   "regular_vs_june": 0.0,
+   "checked": "2026-10-30"
+  },
+  {
+   "group": "German Riesling",
+   "sku": 599274,
+   "name": "RIESLING - DR LOOSEN MOSEL",
+   "list_june": 19.99,
+   "now": 16.99,
+   "regular_now": 19.99,
+   "promo": true,
+   "promo_end": "2026-11-21T00:00:00.000-07:00",
+   "stores": 194,
+   "change_vs_june": -3.0,
+   "regular_vs_june": 0.0,
+   "checked": "2026-10-30"
+  }
+ ],
+ "by_origin": [
+  {
+   "country": "Chile",
+   "n": 24,
+   "median_ratio": 1.23,
+   "q1": 1.16,
+   "q3": 1.4,
+   "we_med": 14.5,
+   "bc_med": 17.24,
+   "US_price_pct_below_France": 22.7,
+   "BC_price_pct_below_France": 42.9
+  },
+  {
+   "country": "Portugal",
+   "n": 8,
+   "median_ratio": 1.29,
+   "q1": 1.16,
+   "q3": 1.55,
+   "we_med": 12.0,
+   "bc_med": 13.74,
+   "US_price_pct_below_France": 19.4,
+   "BC_price_pct_below_France": 38.9
+  },
+  {
+   "country": "Argentina",
+   "n": 28,
+   "median_ratio": 1.3,
+   "q1": 1.22,
+   "q3": 1.52,
+   "we_med": 15.0,
+   "bc_med": 19.99,
+   "US_price_pct_below_France": 4.0,
+   "BC_price_pct_below_France": 24.8
+  },
+  {
+   "country": "New Zealand",
+   "n": 26,
+   "median_ratio": 1.39,
+   "q1": 1.22,
+   "q3": 1.66,
+   "we_med": 18.5,
+   "bc_med": 24.99,
+   "US_price_pct_below_France": 19.1,
+   "BC_price_pct_below_France": 34.6
+  },
+  {
+   "country": "Germany",
+   "n": 10,
+   "median_ratio": 1.42,
+   "q1": 1.32,
+   "q3": 1.82,
+   "we_med": 34.0,
+   "bc_med": 57.99,
+   "US_price_pct_below_France": -16.8,
+   "BC_price_pct_below_France": -13.8
+  },
+  {
+   "country": "South Africa",
+   "n": 3,
+   "median_ratio": 1.44,
+   "q1": 1.24,
+   "q3": 1.57,
+   "we_med": 18.0,
+   "bc_med": 18.49,
+   "US_price_pct_below_France": -4.2,
+   "BC_price_pct_below_France": 18.8
+  },
+  {
+   "country": "Spain",
+   "n": 18,
+   "median_ratio": 1.47,
+   "q1": 1.29,
+   "q3": 1.81,
+   "we_med": 34.0,
+   "bc_med": 51.99,
+   "US_price_pct_below_France": -4.7,
+   "BC_price_pct_below_France": 3.6
+  },
+  {
+   "country": "Italy",
+   "n": 113,
+   "median_ratio": 1.5,
+   "q1": 1.24,
+   "q3": 1.83,
+   "we_med": 50.0,
+   "bc_med": 68.99,
+   "US_price_pct_below_France": -7.8,
+   "BC_price_pct_below_France": 4.4
+  },
+  {
+   "country": "Austria",
+   "n": 1,
+   "median_ratio": 1.53,
+   "q1": 1.53,
+   "q3": 1.53,
+   "we_med": 64.0,
+   "bc_med": 97.99,
+   "US_price_pct_below_France": -58.1,
+   "BC_price_pct_below_France": -33.5
+  },
+  {
+   "country": "Australia",
+   "n": 27,
+   "median_ratio": 1.58,
+   "q1": 1.33,
+   "q3": 1.78,
+   "we_med": 19.0,
+   "bc_med": 28.99,
+   "US_price_pct_below_France": 10.5,
+   "BC_price_pct_below_France": 15.9
+  },
+  {
+   "country": "US",
+   "n": 107,
+   "median_ratio": 1.6,
+   "q1": 1.4,
+   "q3": 1.85,
+   "we_med": 24.0,
+   "bc_med": 30.49,
+   "US_price_pct_below_France": 13.7,
+   "BC_price_pct_below_France": 21.0
+  },
+  {
+   "country": "France",
+   "n": 92,
+   "median_ratio": 1.76,
+   "q1": 1.45,
+   "q3": 2.56,
+   "we_med": 44.5,
+   "bc_med": 88.99,
+   "US_price_pct_below_France": null,
+   "BC_price_pct_below_France": null
+  }
+ ],
+ "iowa_rows": [
+  {
+   "item": "CROWN ROYAL BLACK",
+   "category": "CANADIAN WHISKIES",
+   "iowa_state_retail_usd": 28.49,
+   "bc_name": "CROWN ROYAL - BLACK",
+   "bc_price_cad": 31.49,
+   "ratio_cad_per_usd": 1.11,
+   "iowa_bottles_2026": 3298
+  },
+  {
+   "item": "CROWN ROYAL",
+   "category": "CANADIAN WHISKIES",
+   "iowa_state_retail_usd": 26.24,
+   "bc_name": "CROWN ROYAL",
+   "bc_price_cad": 29.99,
+   "ratio_cad_per_usd": 1.14,
+   "iowa_bottles_2026": 70873
+  },
+  {
+   "item": "COINTREAU LIQUEUR",
+   "category": "IMPORTED CORDIALS & LIQUEUR",
+   "iowa_state_retail_usd": 34.47,
+   "bc_name": "COINTREAU",
+   "bc_price_cad": 40.99,
+   "ratio_cad_per_usd": 1.19,
+   "iowa_bottles_2026": 19430
+  },
+  {
+   "item": "CROWN ROYAL REGAL APPLE",
+   "category": "CANADIAN WHISKIES",
+   "iowa_state_retail_usd": 26.24,
+   "bc_name": "CROWN ROYAL - APPLE",
+   "bc_price_cad": 31.99,
+   "ratio_cad_per_usd": 1.22,
+   "iowa_bottles_2026": 90054
+  },
+  {
+   "item": "CROWN ROYAL VANILLA",
+   "category": "CANADIAN WHISKIES",
+   "iowa_state_retail_usd": 26.24,
+   "bc_name": "CROWN ROYAL - VANILLA",
+   "bc_price_cad": 31.99,
+   "ratio_cad_per_usd": 1.22,
+   "iowa_bottles_2026": 16161
+  },
+  {
+   "item": "TANQUERAY GIN",
+   "category": "IMPORTED DRY GINS",
+   "iowa_state_retail_usd": 21.74,
+   "bc_name": "TANQUERAY - LONDON DRY",
+   "bc_price_cad": 27.49,
+   "ratio_cad_per_usd": 1.26,
+   "iowa_bottles_2026": 20127
+  },
+  {
+   "item": "BAILEYS ORIGINAL IRISH CREAM",
+   "category": "CREAM LIQUEURS",
+   "iowa_state_retail_usd": 24.74,
+   "bc_name": "BAILEYS - ORIGINAL IRISH CREAM",
+   "bc_price_cad": 32.49,
+   "ratio_cad_per_usd": 1.31,
+   "iowa_bottles_2026": 19634
+  },
+  {
+   "item": "BOMBAY SAPPHIRE GIN",
+   "category": "IMPORTED DRY GINS",
+   "iowa_state_retail_usd": 21.74,
+   "bc_name": "BOMBAY SAPPHIRE - LONDON DRY",
+   "bc_price_cad": 29.99,
+   "ratio_cad_per_usd": 1.38,
+   "iowa_bottles_2026": 11881
+  },
+  {
+   "item": "KAHLUA COFFEE",
+   "category": "COFFEE LIQUEURS",
+   "iowa_state_retail_usd": 20.99,
+   "bc_name": "KAHLUA",
+   "bc_price_cad": 30.99,
+   "ratio_cad_per_usd": 1.48,
+   "iowa_bottles_2026": 16547
+  },
+  {
+   "item": "WOODFORD RESERVE",
+   "category": "STRAIGHT BOURBON WHISKIES",
+   "iowa_state_retail_usd": 36.65,
+   "bc_name": "WOODFORD RESERVE - DISTILLERS SELECT",
+   "bc_price_cad": 54.99,
+   "ratio_cad_per_usd": 1.5,
+   "iowa_bottles_2026": 29151
+  },
+  {
+   "item": "GENTLEMAN JACK",
+   "category": "TENNESSEE WHISKIES",
+   "iowa_state_retail_usd": 30.02,
+   "bc_name": "JACK DANIEL'S - GENTLEMAN JACK RARE TENNESSEE",
+   "bc_price_cad": 44.99,
+   "ratio_cad_per_usd": 1.5,
+   "iowa_bottles_2026": 4581
+  },
+  {
+   "item": "JAMESON",
+   "category": "IRISH WHISKIES",
+   "iowa_state_retail_usd": 26.24,
+   "bc_name": "JAMESON - IRISH",
+   "bc_price_cad": 39.99,
+   "ratio_cad_per_usd": 1.52,
+   "iowa_bottles_2026": 55640
+  },
+  {
+   "item": "LICOR 43",
+   "category": "IMPORTED CORDIALS & LIQUEUR",
+   "iowa_state_retail_usd": 22.49,
+   "bc_name": "LICOR 43",
+   "bc_price_cad": 35.99,
+   "ratio_cad_per_usd": 1.6,
+   "iowa_bottles_2026": 19664
+  },
+  {
+   "item": "JACK DANIELS OLD #7 BLACK LABEL",
+   "category": "TENNESSEE WHISKIES",
+   "iowa_state_retail_usd": 23.87,
+   "bc_name": "(REPACK)JACK DANIEL'S - OLD 7",
+   "bc_price_cad": 38.49,
+   "ratio_cad_per_usd": 1.61,
+   "iowa_bottles_2026": 75171
+  },
+  {
+   "item": "JACK DANIELS TENNESSEE HONEY",
+   "category": "TENNESSEE WHISKIES",
+   "iowa_state_retail_usd": 23.87,
+   "bc_name": "JACK DANIEL'S - TENNESSEE HONEY",
+   "bc_price_cad": 38.99,
+   "ratio_cad_per_usd": 1.63,
+   "iowa_bottles_2026": 16541
+  },
+  {
+   "item": "JIM BEAM BLACK",
+   "category": "STRAIGHT BOURBON WHISKIES",
+   "iowa_state_retail_usd": 22.5,
+   "bc_name": "(REPACK)JIM BEAM - BLACK EXTRA AGED",
+   "bc_price_cad": 37.99,
+   "ratio_cad_per_usd": 1.69,
+   "iowa_bottles_2026": 2593
+  },
+  {
+   "item": "RUMCHATA",
+   "category": "CREAM LIQUEURS",
+   "iowa_state_retail_usd": 21.0,
+   "bc_name": "RUMCHATA CREAM",
+   "bc_price_cad": 35.99,
+   "ratio_cad_per_usd": 1.71,
+   "iowa_bottles_2026": 15930
+  },
+  {
+   "item": "ST GERMAIN",
+   "category": "IMPORTED CORDIALS & LIQUEUR",
+   "iowa_state_retail_usd": 30.0,
+   "bc_name": "ELDERFLOWER LIQUEUR - ST GERMAIN",
+   "bc_price_cad": 51.99,
+   "ratio_cad_per_usd": 1.73,
+   "iowa_bottles_2026": 16353
+  },
+  {
+   "item": "BULLEIT BOURBON",
+   "category": "STRAIGHT BOURBON WHISKIES",
+   "iowa_state_retail_usd": 26.99,
+   "bc_name": "BULLEIT - FRONTIER BOURBON",
+   "bc_price_cad": 46.99,
+   "ratio_cad_per_usd": 1.74,
+   "iowa_bottles_2026": 26927
+  },
+  {
+   "item": "MAKERS MARK",
+   "category": "STRAIGHT BOURBON WHISKIES",
+   "iowa_state_retail_usd": 27.0,
+   "bc_name": "MAKER'S MARK - KENTUCKY BOURBON",
+   "bc_price_cad": 46.99,
+   "ratio_cad_per_usd": 1.74,
+   "iowa_bottles_2026": 45168
+  },
+  {
+   "item": "BACARDI SUPERIOR",
+   "category": "WHITE RUM",
+   "iowa_state_retail_usd": 13.49,
+   "bc_name": "BACARDI - SUPERIOR WHITE",
+   "bc_price_cad": 23.99,
+   "ratio_cad_per_usd": 1.78,
+   "iowa_bottles_2026": 28452
+  },
+  {
+   "item": "DON JULIO REPOSADO",
+   "category": "100% AGAVE TEQUILA",
+   "iowa_state_retail_usd": 50.24,
+   "bc_name": "DON JULIO - REPOSADO",
+   "bc_price_cad": 89.99,
+   "ratio_cad_per_usd": 1.79,
+   "iowa_bottles_2026": 27521
+  },
+  {
+   "item": "GLENLIVET 12YR",
+   "category": "SINGLE MALT SCOTCH",
+   "iowa_state_retail_usd": 41.97,
+   "bc_name": "GLENLIVET - 12 YEAR OLD",
+   "bc_price_cad": 75.99,
+   "ratio_cad_per_usd": 1.81,
+   "iowa_bottles_2026": 5025
+  },
+  {
+   "item": "JAGERMEISTER LIQUEUR",
+   "category": "IMPORTED CORDIALS & LIQUEUR",
+   "iowa_state_retail_usd": 21.53,
+   "bc_name": "JAGERMEISTER",
+   "bc_price_cad": 38.99,
+   "ratio_cad_per_usd": 1.81,
+   "iowa_bottles_2026": 32130
+  },
+  {
+   "item": "FIREBALL CINNAMON WHISKEY",
+   "category": "WHISKEY LIQUEUR",
+   "iowa_state_retail_usd": 13.5,
+   "bc_name": "FIREBALL",
+   "bc_price_cad": 24.99,
+   "ratio_cad_per_usd": 1.85,
+   "iowa_bottles_2026": 60526
+  },
+  {
+   "item": "HENDRICKS GIN",
+   "category": "IMPORTED DRY GINS",
+   "iowa_state_retail_usd": 30.0,
+   "bc_name": "HENDRICK'S GIN",
+   "bc_price_cad": 55.99,
+   "ratio_cad_per_usd": 1.87,
+   "iowa_bottles_2026": 11212
+  },
+  {
+   "item": "ESPOLON BLANCO",
+   "category": "100% AGAVE TEQUILA",
+   "iowa_state_retail_usd": 24.0,
+   "bc_name": "ESPOLON - BLANCO",
+   "bc_price_cad": 44.99,
+   "ratio_cad_per_usd": 1.87,
+   "iowa_bottles_2026": 21100
+  },
+  {
+   "item": "JIM BEAM",
+   "category": "STRAIGHT BOURBON WHISKIES",
+   "iowa_state_retail_usd": 17.25,
+   "bc_name": "JIM BEAM - KENTUCKY BOURBON",
+   "bc_price_cad": 32.49,
+   "ratio_cad_per_usd": 1.88,
+   "iowa_bottles_2026": 50705
+  },
+  {
+   "item": "CASAMIGOS BLANCO",
+   "category": "100% AGAVE TEQUILA",
+   "iowa_state_retail_usd": 41.24,
+   "bc_name": "CASAMIGOS - BLANCO",
+   "bc_price_cad": 77.99,
+   "ratio_cad_per_usd": 1.89,
+   "iowa_bottles_2026": 16663
+  },
+  {
+   "item": "MALIBU COCONUT",
+   "category": "FLAVORED RUM",
+   "iowa_state_retail_usd": 13.49,
+   "bc_name": "MALIBU - COCONUT",
+   "bc_price_cad": 25.99,
+   "ratio_cad_per_usd": 1.93,
+   "iowa_bottles_2026": 55105
+  },
+  {
+   "item": "CAPTAIN MORGAN ORIGINAL SPICED",
+   "category": "SPICED RUM",
+   "iowa_state_retail_usd": 14.24,
+   "bc_name": "CAPTAIN MORGAN - SPICED",
+   "bc_price_cad": 27.99,
+   "ratio_cad_per_usd": 1.97,
+   "iowa_bottles_2026": 88682
+  },
+  {
+   "item": "DON JULIO BLANCO",
+   "category": "100% AGAVE TEQUILA",
+   "iowa_state_retail_usd": 46.49,
+   "bc_name": "DON JULIO - BLANCO",
+   "bc_price_cad": 91.99,
+   "ratio_cad_per_usd": 1.98,
+   "iowa_bottles_2026": 24360
+  },
+  {
+   "item": "OLMECA ALTOS PLATA",
+   "category": "100% AGAVE TEQUILA",
+   "iowa_state_retail_usd": 22.49,
+   "bc_name": "OLMECA - ALTOS PLATA",
+   "bc_price_cad": 44.99,
+   "ratio_cad_per_usd": 2.0,
+   "iowa_bottles_2026": 15546
+  },
+  {
+   "item": "KETEL ONE",
+   "category": "IMPORTED VODKAS",
+   "iowa_state_retail_usd": 17.0,
+   "bc_name": "NOLET - KETEL ONE",
+   "bc_price_cad": 33.99,
+   "ratio_cad_per_usd": 2.0,
+   "iowa_bottles_2026": 22238
+  },
+  {
+   "item": "SMIRNOFF 80PRF",
+   "category": "AMERICAN VODKAS",
+   "iowa_state_retail_usd": 12.38,
+   "bc_name": "SMIRNOFF - RED LABEL",
+   "bc_price_cad": 24.99,
+   "ratio_cad_per_usd": 2.02,
+   "iowa_bottles_2026": 43427
+  },
+  {
+   "item": "ELIJAH CRAIG",
+   "category": "STRAIGHT BOURBON WHISKIES",
+   "iowa_state_retail_usd": 26.25,
+   "bc_name": "ELIJAH CRAIG - SMALL BATCH",
+   "bc_price_cad": 54.99,
+   "ratio_cad_per_usd": 2.09,
+   "iowa_bottles_2026": 19721
+  },
+  {
+   "item": "PATRON SILVER",
+   "category": "100% AGAVE TEQUILA",
+   "iowa_state_retail_usd": 37.49,
+   "bc_name": "PATRON - SILVER",
+   "bc_price_cad": 79.99,
+   "ratio_cad_per_usd": 2.13,
+   "iowa_bottles_2026": 64429
+  },
+  {
+   "item": "JOSE CUERVO ESPECIAL SILVER",
+   "category": "MIXTO TEQUILA",
+   "iowa_state_retail_usd": 18.0,
+   "bc_name": "JOSE CUERVO - ESPECIAL SILVER",
+   "bc_price_cad": 38.49,
+   "ratio_cad_per_usd": 2.14,
+   "iowa_bottles_2026": 53187
+  },
+  {
+   "item": "ABSOLUT SWEDISH VODKA 80PRF",
+   "category": "IMPORTED VODKAS",
+   "iowa_state_retail_usd": 13.49,
+   "bc_name": "ABSOLUT",
+   "bc_price_cad": 28.99,
+   "ratio_cad_per_usd": 2.15,
+   "iowa_bottles_2026": 76799
+  },
+  {
+   "item": "JOSE CUERVO ESPECIAL REPOSADO",
+   "category": "MIXTO TEQUILA",
+   "iowa_state_retail_usd": 18.0,
+   "bc_name": "JOSE CUERVO - ESPECIAL GOLD",
+   "bc_price_cad": 38.99,
+   "ratio_cad_per_usd": 2.17,
+   "iowa_bottles_2026": 48482
+  },
+  {
+   "item": "GREY GOOSE",
+   "category": "IMPORTED VODKAS",
+   "iowa_state_retail_usd": 22.49,
+   "bc_name": "GREY GOOSE",
+   "bc_price_cad": 49.99,
+   "ratio_cad_per_usd": 2.22,
+   "iowa_bottles_2026": 26196
+  },
+  {
+   "item": "FOUR ROSES BOURBON",
+   "category": "STRAIGHT BOURBON WHISKIES",
+   "iowa_state_retail_usd": 20.25,
+   "bc_name": "FOUR ROSES - 80 PROOF",
+   "bc_price_cad": 44.99,
+   "ratio_cad_per_usd": 2.22,
+   "iowa_bottles_2026": 25181
+  },
+  {
+   "item": "CAZADORES REPOSADO",
+   "category": "100% AGAVE TEQUILA",
+   "iowa_state_retail_usd": 18.72,
+   "bc_name": "CAZADORES - REPOSADO",
+   "bc_price_cad": 43.99,
+   "ratio_cad_per_usd": 2.35,
+   "iowa_bottles_2026": 16158
+  },
+  {
+   "item": "BUFFALO TRACE BOURBON",
+   "category": "STRAIGHT BOURBON WHISKIES",
+   "iowa_state_retail_usd": 19.5,
+   "bc_name": "BUFFALO TRACE KENTUCKY BOURBON",
+   "bc_price_cad": 45.99,
+   "ratio_cad_per_usd": 2.36,
+   "iowa_bottles_2026": 89918
+  },
+  {
+   "item": "HENNESSY VS",
+   "category": "IMPORTED BRANDIES",
+   "iowa_state_retail_usd": 29.99,
+   "bc_name": "HENNESSY - VERY SPECIAL",
+   "bc_price_cad": 72.99,
+   "ratio_cad_per_usd": 2.43,
+   "iowa_bottles_2026": 39662
+  },
+  {
+   "item": "TITOS HANDMADE VODKA",
+   "category": "AMERICAN VODKAS",
+   "iowa_state_retail_usd": 15.0,
+   "bc_name": "FIFTH GENERATION - TITO'S HANDMADE",
+   "bc_price_cad": 36.99,
+   "ratio_cad_per_usd": 2.47,
+   "iowa_bottles_2026": 305323
+  },
+  {
+   "item": "TEREMANA BLANCO TEQUILA",
+   "category": "100% AGAVE TEQUILA",
+   "iowa_state_retail_usd": 23.87,
+   "bc_name": "TEREMANA - TEQUILA BLANCO",
+   "bc_price_cad": 59.99,
+   "ratio_cad_per_usd": 2.51,
+   "iowa_bottles_2026": 21893
+  }
+ ],
+ "validate": {
+  "n_matched_total": 465,
+  "n_portugal": 16,
+  "n_portugal_red_under_25": 5,
+  "portugal_red_bc_under_25": {
+   "n": 5,
+   "mean_gap_cautious": 0.04,
+   "share_positive_cautious": 60,
+   "mean_gap_A": 0.04,
+   "mean_gap_B": 0.29,
+   "bc_median": 13.99,
+   "bottles": [
+    "DOURO - VICENTE FARIA ANIMUS",
+    "LISBOA - CASA SANTOS LIMA LAB",
+    "SETUBAL - JOSE MARIA DA FONSECA PERIQUITA",
+    "DOURO - PORCA DE MURCA",
+    "DOURO - QUINTA DOS ACIPRESTES"
+   ]
+  },
+  "australian_shiraz_bc_under_25": {
+   "n": 4,
+   "mean_gap_cautious": 1.49,
+   "share_positive_cautious": 100,
+   "mean_gap_A": 1.58,
+   "mean_gap_B": 1.88,
+   "bc_median": 17.99,
+   "bottles": [
+    "SHIRAZ - PETER LEHMANN BAROSSA PORTRAIT",
+    "SHIRAZ CABERNET SAUVIGNON - PENFOLDS KOONUNGA HILL",
+    "SHIRAZ - WAKEFIELD CLARE VALLEY 2021",
+    "SHIRAZ - YELLOW TAIL"
+   ]
+  },
+  "all_matched_bc_under_25": {
+   "n": 148,
+   "mean_gap_cautious": 0.07,
+   "share_positive_cautious": 56,
+   "mean_gap_A": 0.26,
+   "mean_gap_B": 0.21,
+   "bc_median": 19.49,
+   "bottles": [
+    "VINHO VERDE ROSE  - AVELEDA CASAL GARCIA",
+    "SHIRAZ - PETER LEHMANN BAROSSA PORTRAIT",
+    "CABERNET SAUVIGNON - WENTE SOUTHERN HILLS LIVERMORE",
+    "CHARDONNAY - WENTE MORNING FOG LIVERMORE",
+    "CHARDONNAY - LINDEMANS BIN 65",
+    "VIOGNIER - YALUMBA Y SERIES",
+    "CHARDONNAY - STERLING VINTNER'S COLLECTION",
+    "MERLOT - STERLING VINTNER'S COLLECTION",
+    "SHIRAZ CABERNET SAUVIGNON - PENFOLDS KOONUNGA HILL",
+    "ZINFANDEL - SEVEN DEADLY ZINS LODI OLD VINE",
+    "RUFFINO - PROSECCO EXTRA DRY",
+    "VALPOLICELLA CLASSICO - MASI BONACOSTA",
+    "PIEMONTE BARBERA - FONTANAFREDDA BRICCOTONDO",
+    "CATALUNYA - TORRES SANGRE DE TORO",
+    "BOLLA - PROSECCO EXTRA DRY",
+    "VERMENTINO DI SARDEGNA - ARGIOLAS COSTAMOLINO",
+    "CHARDONNAY - VILLA MARIA PRIVATE BIN EAST COAST",
+    "SAUVIGNON BLANC - VILLA MARIA PRIVATE BIN MARLBOROUGH",
+    "CABERNET SAUVIGNON - BERINGER FOUNDERS ESTATE",
+    "AGLIANICO DEL VULTURE - BASILISCO TEODOSIO 2021",
+    "CHARDONNAY - KIM CRAWFORD EAST COAST UNOAKED 2024",
+    "PINOT GRIGIO DELLE VENEZIE - TOMMASI LE ROSSE",
+    "MALBEC - DONA PAULA LOS CARDOS",
+    "MALBEC - MICHEL TORINO DON DAVID RESERVE",
+    "CHARDONNAY - ZUCCARDI SERIE A",
+    "RIOJA CRIANZA - CVNE VINA REAL 2021",
+    "CABERNET SAUVIGNON - MICHEL TORINO DON DAVID RESERVE",
+    "MALBEC - PASCUAL TOSO ESTATE BOTTLED",
+    "ZUCCARDI SERIE A MALBEC",
+    "CABERNET SAUVIGNON - CONO SUR BICICLETA",
+    "PINOT NOIR - CONO SUR BICICLETA",
+    "BEAUJOLAIS NOUVEAU - MOMMESSIN 2024",
+    "SAUVIGNON BLANC - MONTES LIMITED SELECTION LEYDA VALLEY",
+    "CARMENERE - SAN PEDRO 1865 SINGLE VINEYARD MAULE 2020",
+    "CARMENERE - CARMEN GRAN RESERVA APALTA",
+    "CABERNET SAUVIGNON - SANTA RITA 120",
+    "PINOT NOIR - UNDURRAGA GRAN RESERVA SIBARIS LEYDA VALLEY",
+    "CHARDONNAY - UNDURRAGA SIBARIS GRAN RESERVA",
+    "SYRAH - BISQUERTT LA JOYA GRAN RESERVA COLCHAGUA 2017",
+    "CHARDONNAY - ERRAZURIZ MAX RESERVA",
+    "CABERNET SAUVIGNON - ERRAZURIZ MAX RESERVA ACONCAGUA",
+    "CABERNET SAUVIGNON - SAN PEDRO GATO NEGRO",
+    "SAUVIGNON BLANC - SANTA RITA  120",
+    "CHURCH BLOCK - WIRRA WIRRA MCLAREN VALE 2022",
+    "CABERNET SAUVIGNON - WOLF BLASS YELLOW LABEL",
+    "CHARDONNAY - WOLF BLASS YELLOW LABEL",
+    "(REPACK) ZINFANDEL - GNARLY HEAD LODI OLD VINE",
+    "SAUVIGNON BLANC - NOBLE VINES 242",
+    "CHARDONNAY - PENFOLDS KOONUNGA HILL",
+    "CABERNET SAUVIGNON - NOBLE VINES 337 LODI",
+    "CALIFORNIA RED - JOSH CELLARS LEGACY 2019",
+    "CHARDONNAY - SLOW PRESS",
+    "PINOT NOIR - HAHN MONTEREY 2020",
+    "CABERNET SAUVIGNON - GUNSIGHT ROCK PASO ROBLES",
+    "PINOT NOIR - MARK WEST",
+    "SAUVIGNON BLANC - BRANCOTT ESTATE MARLBOROUGH",
+    "SAUVIGNON BLANC - KIM CRAWFORD MARLBOROUGH",
+    "SAUVIGNON BLANC - CUPCAKE",
+    "SICILIA GRILLO - RAPITALA ORGANIC",
+    "PINOT NOIR - MIRASSOU",
+    "CHIANTI CLASSICO - SAN FELICE",
+    "CHIANTI CLASSICO - ROCCA DELLE MACIE 2022",
+    "CHIANTI - RUFFINO",
+    "CHARDONNAY - CONO SUR ORGANIC",
+    "PINOT NOIR - CONO SUR ORGANIC",
+    "CABERNET SAUVIGNON CARMENERE SYRAH - CONO SUR ORGANIC",
+    "CABERNET SAUVIGNON - ARBOLEDA",
+    "ROSE - PROTEA",
+    "SAUVIGNON BLANC - WHITEHAVEN MARLBOROUGH",
+    "SAUVIGNON BLANC - WAIRAU RIVER MARLBOROUGH 2022",
+    "SAUVIGNON BLANC - TWO OCEANS",
+    "(REPACK) MERLOT - BAREFOOT CALIFORNIA",
+    "SAUVIGNON BLANC - STONELEIGH ORGANIC",
+    "CABERNET SAUVIGNON - CARNIVOR",
+    "SAUVIGNON BLANC - OYSTER BAY MARLBOROUGH",
+    "SAUVIGNON BLANC - SEVEN TERRACES MARLBOROUGH",
+    "MALBEC - TRIVENTO RESERVE",
+    "MALBEC SYRAH - TILIA",
+    "CHARDONNAY - TILIA",
+    "SAUVIGNON BLANC - KONO MARLBOROUGH",
+    "PINOT NOIR - OYSTER BAY MARLBOROUGH",
+    "PINOT NOIR - STONELEIGH MARLBOROUGH 2018",
+    "RIOJA RESERVA - CAMPO VIEJO",
+    "RIOJA TEMPRANILLO - CAMPO VIEJO",
+    "MERLOT - COLUMBIA CREST GRAND ESTATES",
+    "CABERNET SAUVIGNON - COLUMBIA CREST GRAND ESTATES",
+    "CHARDONNAY - EDNA VALLEY CENTRAL COAST 2019",
+    "VALPOLICELLA CLASSICO - BOLLA",
+    "CABERNET SAUVIGNON - TRIVENTO RESERVE MENDOZA",
+    "MALBEC - DONA PAULA ESTATE MENDOZA UCO VALLEY",
+    "CAMPO DE BORJA GARNACHA - BORSAO",
+    "MALBEC - SANTA JULIA RESERVA UCO VALLEY",
+    "PINOT GRIGIO DELLE VENEZIE - FOLONARI",
+    "CHIANTI - CECCHI",
+    "SICILIA NERO D'AVOLA - CUSUMANO",
+    "PINOT GRIGIO DELLE VENEZIE - DANZANTE",
+    "CHARDONNAY - YELLOW TAIL",
+    "SHIRAZ - WAKEFIELD CLARE VALLEY 2021",
+    "BORDEAUX BLANC - MOUTON CADET",
+    "CHARDONNAY - NORTON RESERVA",
+    "CABERNET SAUVIGNON - ALAMOS",
+    "MALBEC - ALAMOS MENDOZA",
+    "SAUVIGNON BLANC - ERRAZURIZ ESTATE",
+    "SYRAH - FALERNIA RESERVA ELQUI 2015",
+    "CABERNET SAUVIGNON - ROOT 1",
+    "COTES DU RHONE - LOUIS BERNARD",
+    "SAUVIGNON BLANC - CONO SUR ORGANIC",
+    "SAUVIGNON BLANC - AMARAL LEYDA VALLEY 2025",
+    "TOSCANA - MONTE ANTICO",
+    "VALDADIGE PINOT GRIGIO - SANTA MARGHERITA",
+    "VERDICCHIO DEI CASTELLI DI JESI - SARTARELLI CLASSICO 2022",
+    "CABERNET SAUVIGNON - THREE THIEVES CALIFORNIA",
+    "MOSCATO - YELLOW TAIL",
+    "SHIRAZ - YELLOW TAIL",
+    "PINOT GRIGIO - YELLOW TAIL",
+    "CHARDONNAY - TOM GORE",
+    "CABERNET SAUVIGNON - TOM GORE",
+    "(REPACK)CHARDONNAY - WILLIAM HILL NORTH COAST 201",
+    "CHARDONNAY - WOODBRIDGE",
+    "TOSCANA - SAN FABIANO CALCINAIA CASA BOSCHINO ORGANIC 2021",
+    "PINOT GRIGIO DELLE VENEZIE - MASI MODELLO",
+    "MIONETTO - PROSECCO ROSE",
+    "MALBEC - FINCA SOPHENIA ALTOSUR UCO VALLEY ORGANIC 2024",
+    "MALBEC - MICHEL TORINO CUMA ORGANIC",
+    "MERLOT - COLUMBIA CREST H3 HORSE HEAVEN VINEYARD 2019",
+    "CHARDONNAY - BONTERRA ORGANIC MENDOCINO CTY 2021",
+    "CHARDONNAY - SANTA JULIA GLU GLU",
+    "COTES DU RHONE BLANC - LOUIS BERNARD",
+    "CABERNET SAUVIGNON - MASCOTA VINEYARDS GRAN MASCOTA",
+    "PINOT GRIGIO DELLE VENEZIE - MEZZACORONA",
+    "CABERNET SAUVIGNON - JOSH CELLARS 2018",
+    "DOURO - VICENTE FARIA ANIMUS",
+    "VINHO VERDE - AVELEDA CASAL GARCIA",
+    "(REPACK) SAUVIGNON BLANC - JOEL GOTT",
+    "(REPACK)SAUVIGNON BLANC - TOM GORE",
+    "CARINENA GRAN RESERVA - MONASTERIO DE LAS VINAS",
+    "CABERNET SAUVIGNON - WILLIAM HILL CALIFORNIA",
+    "CABERNET SAUVIGNON - SEBASTIANI CALIFORNIA",
+    "PINOT GRIGIO - BAREFOOT CELLARS",
+    "(REPACK) PINOT NOIR - PROPHECY",
+    "(REPACK) CHARDONNAY - CUPCAKE",
+    "CHARDONNAY - JOSH CELLARS",
+    "VINHO VERDE - VICENTE FARIA ANIMUS",
+    "LISBOA - CASA SANTOS LIMA LAB",
+    "SETUBAL - JOSE MARIA DA FONSECA PERIQUITA",
+    "DOURO - PORCA DE MURCA",
+    "DOURO - QUINTA DOS ACIPRESTES",
+    "VINHO VERDE ROSE  - ESTREIA"
+   ]
+  },
+  "all_matched_red_white_bc_under_25": {
+   "n": 142,
+   "mean_gap_cautious": 0.14,
+   "share_positive_cautious": 57,
+   "mean_gap_A": 0.34,
+   "mean_gap_B": 0.29,
+   "bc_median": 19.49,
+   "bottles": [
+    "SHIRAZ - PETER LEHMANN BAROSSA PORTRAIT",
+    "CABERNET SAUVIGNON - WENTE SOUTHERN HILLS LIVERMORE",
+    "CHARDONNAY - WENTE MORNING FOG LIVERMORE",
+    "CHARDONNAY - LINDEMANS BIN 65",
+    "VIOGNIER - YALUMBA Y SERIES",
+    "CHARDONNAY - STERLING VINTNER'S COLLECTION",
+    "MERLOT - STERLING VINTNER'S COLLECTION",
+    "SHIRAZ CABERNET SAUVIGNON - PENFOLDS KOONUNGA HILL",
+    "ZINFANDEL - SEVEN DEADLY ZINS LODI OLD VINE",
+    "VALPOLICELLA CLASSICO - MASI BONACOSTA",
+    "PIEMONTE BARBERA - FONTANAFREDDA BRICCOTONDO",
+    "CATALUNYA - TORRES SANGRE DE TORO",
+    "VERMENTINO DI SARDEGNA - ARGIOLAS COSTAMOLINO",
+    "CHARDONNAY - VILLA MARIA PRIVATE BIN EAST COAST",
+    "SAUVIGNON BLANC - VILLA MARIA PRIVATE BIN MARLBOROUGH",
+    "CABERNET SAUVIGNON - BERINGER FOUNDERS ESTATE",
+    "AGLIANICO DEL VULTURE - BASILISCO TEODOSIO 2021",
+    "CHARDONNAY - KIM CRAWFORD EAST COAST UNOAKED 2024",
+    "PINOT GRIGIO DELLE VENEZIE - TOMMASI LE ROSSE",
+    "MALBEC - DONA PAULA LOS CARDOS",
+    "MALBEC - MICHEL TORINO DON DAVID RESERVE",
+    "CHARDONNAY - ZUCCARDI SERIE A",
+    "RIOJA CRIANZA - CVNE VINA REAL 2021",
+    "CABERNET SAUVIGNON - MICHEL TORINO DON DAVID RESERVE",
+    "MALBEC - PASCUAL TOSO ESTATE BOTTLED",
+    "ZUCCARDI SERIE A MALBEC",
+    "CABERNET SAUVIGNON - CONO SUR BICICLETA",
+    "PINOT NOIR - CONO SUR BICICLETA",
+    "BEAUJOLAIS NOUVEAU - MOMMESSIN 2024",
+    "SAUVIGNON BLANC - MONTES LIMITED SELECTION LEYDA VALLEY",
+    "CARMENERE - SAN PEDRO 1865 SINGLE VINEYARD MAULE 2020",
+    "CARMENERE - CARMEN GRAN RESERVA APALTA",
+    "CABERNET SAUVIGNON - SANTA RITA 120",
+    "PINOT NOIR - UNDURRAGA GRAN RESERVA SIBARIS LEYDA VALLEY",
+    "CHARDONNAY - UNDURRAGA SIBARIS GRAN RESERVA",
+    "SYRAH - BISQUERTT LA JOYA GRAN RESERVA COLCHAGUA 2017",
+    "CHARDONNAY - ERRAZURIZ MAX RESERVA",
+    "CABERNET SAUVIGNON - ERRAZURIZ MAX RESERVA ACONCAGUA",
+    "CABERNET SAUVIGNON - SAN PEDRO GATO NEGRO",
+    "SAUVIGNON BLANC - SANTA RITA  120",
+    "CHURCH BLOCK - WIRRA WIRRA MCLAREN VALE 2022",
+    "CABERNET SAUVIGNON - WOLF BLASS YELLOW LABEL",
+    "CHARDONNAY - WOLF BLASS YELLOW LABEL",
+    "(REPACK) ZINFANDEL - GNARLY HEAD LODI OLD VINE",
+    "SAUVIGNON BLANC - NOBLE VINES 242",
+    "CHARDONNAY - PENFOLDS KOONUNGA HILL",
+    "CABERNET SAUVIGNON - NOBLE VINES 337 LODI",
+    "CALIFORNIA RED - JOSH CELLARS LEGACY 2019",
+    "CHARDONNAY - SLOW PRESS",
+    "PINOT NOIR - HAHN MONTEREY 2020",
+    "CABERNET SAUVIGNON - GUNSIGHT ROCK PASO ROBLES",
+    "PINOT NOIR - MARK WEST",
+    "SAUVIGNON BLANC - BRANCOTT ESTATE MARLBOROUGH",
+    "SAUVIGNON BLANC - KIM CRAWFORD MARLBOROUGH",
+    "SAUVIGNON BLANC - CUPCAKE",
+    "SICILIA GRILLO - RAPITALA ORGANIC",
+    "PINOT NOIR - MIRASSOU",
+    "CHIANTI CLASSICO - SAN FELICE",
+    "CHIANTI CLASSICO - ROCCA DELLE MACIE 2022",
+    "CHIANTI - RUFFINO",
+    "CHARDONNAY - CONO SUR ORGANIC",
+    "PINOT NOIR - CONO SUR ORGANIC",
+    "CABERNET SAUVIGNON CARMENERE SYRAH - CONO SUR ORGANIC",
+    "CABERNET SAUVIGNON - ARBOLEDA",
+    "SAUVIGNON BLANC - WHITEHAVEN MARLBOROUGH",
+    "SAUVIGNON BLANC - WAIRAU RIVER MARLBOROUGH 2022",
+    "SAUVIGNON BLANC - TWO OCEANS",
+    "(REPACK) MERLOT - BAREFOOT CALIFORNIA",
+    "SAUVIGNON BLANC - STONELEIGH ORGANIC",
+    "CABERNET SAUVIGNON - CARNIVOR",
+    "SAUVIGNON BLANC - OYSTER BAY MARLBOROUGH",
+    "SAUVIGNON BLANC - SEVEN TERRACES MARLBOROUGH",
+    "MALBEC - TRIVENTO RESERVE",
+    "MALBEC SYRAH - TILIA",
+    "CHARDONNAY - TILIA",
+    "SAUVIGNON BLANC - KONO MARLBOROUGH",
+    "PINOT NOIR - OYSTER BAY MARLBOROUGH",
+    "PINOT NOIR - STONELEIGH MARLBOROUGH 2018",
+    "RIOJA RESERVA - CAMPO VIEJO",
+    "RIOJA TEMPRANILLO - CAMPO VIEJO",
+    "MERLOT - COLUMBIA CREST GRAND ESTATES",
+    "CABERNET SAUVIGNON - COLUMBIA CREST GRAND ESTATES",
+    "CHARDONNAY - EDNA VALLEY CENTRAL COAST 2019",
+    "VALPOLICELLA CLASSICO - BOLLA",
+    "CABERNET SAUVIGNON - TRIVENTO RESERVE MENDOZA",
+    "MALBEC - DONA PAULA ESTATE MENDOZA UCO VALLEY",
+    "CAMPO DE BORJA GARNACHA - BORSAO",
+    "MALBEC - SANTA JULIA RESERVA UCO VALLEY",
+    "PINOT GRIGIO DELLE VENEZIE - FOLONARI",
+    "CHIANTI - CECCHI",
+    "SICILIA NERO D'AVOLA - CUSUMANO",
+    "PINOT GRIGIO DELLE VENEZIE - DANZANTE",
+    "CHARDONNAY - YELLOW TAIL",
+    "SHIRAZ - WAKEFIELD CLARE VALLEY 2021",
+    "BORDEAUX BLANC - MOUTON CADET",
+    "CHARDONNAY - NORTON RESERVA",
+    "CABERNET SAUVIGNON - ALAMOS",
+    "MALBEC - ALAMOS MENDOZA",
+    "SAUVIGNON BLANC - ERRAZURIZ ESTATE",
+    "SYRAH - FALERNIA RESERVA ELQUI 2015",
+    "CABERNET SAUVIGNON - ROOT 1",
+    "COTES DU RHONE - LOUIS BERNARD",
+    "SAUVIGNON BLANC - CONO SUR ORGANIC",
+    "SAUVIGNON BLANC - AMARAL LEYDA VALLEY 2025",
+    "TOSCANA - MONTE ANTICO",
+    "VALDADIGE PINOT GRIGIO - SANTA MARGHERITA",
+    "VERDICCHIO DEI CASTELLI DI JESI - SARTARELLI CLASSICO 2022",
+    "CABERNET SAUVIGNON - THREE THIEVES CALIFORNIA",
+    "MOSCATO - YELLOW TAIL",
+    "SHIRAZ - YELLOW TAIL",
+    "PINOT GRIGIO - YELLOW TAIL",
+    "CHARDONNAY - TOM GORE",
+    "CABERNET SAUVIGNON - TOM GORE",
+    "(REPACK)CHARDONNAY - WILLIAM HILL NORTH COAST 201",
+    "CHARDONNAY - WOODBRIDGE",
+    "TOSCANA - SAN FABIANO CALCINAIA CASA BOSCHINO ORGANIC 2021",
+    "PINOT GRIGIO DELLE VENEZIE - MASI MODELLO",
+    "MALBEC - FINCA SOPHENIA ALTOSUR UCO VALLEY ORGANIC 2024",
+    "MALBEC - MICHEL TORINO CUMA ORGANIC",
+    "MERLOT - COLUMBIA CREST H3 HORSE HEAVEN VINEYARD 2019",
+    "CHARDONNAY - BONTERRA ORGANIC MENDOCINO CTY 2021",
+    "CHARDONNAY - SANTA JULIA GLU GLU",
+    "COTES DU RHONE BLANC - LOUIS BERNARD",
+    "CABERNET SAUVIGNON - MASCOTA VINEYARDS GRAN MASCOTA",
+    "PINOT GRIGIO DELLE VENEZIE - MEZZACORONA",
+    "CABERNET SAUVIGNON - JOSH CELLARS 2018",
+    "DOURO - VICENTE FARIA ANIMUS",
+    "VINHO VERDE - AVELEDA CASAL GARCIA",
+    "(REPACK) SAUVIGNON BLANC - JOEL GOTT",
+    "(REPACK)SAUVIGNON BLANC - TOM GORE",
+    "CARINENA GRAN RESERVA - MONASTERIO DE LAS VINAS",
+    "CABERNET SAUVIGNON - WILLIAM HILL CALIFORNIA",
+    "CABERNET SAUVIGNON - SEBASTIANI CALIFORNIA",
+    "PINOT GRIGIO - BAREFOOT CELLARS",
+    "(REPACK) PINOT NOIR - PROPHECY",
+    "(REPACK) CHARDONNAY - CUPCAKE",
+    "CHARDONNAY - JOSH CELLARS",
+    "VINHO VERDE - VICENTE FARIA ANIMUS",
+    "LISBOA - CASA SANTOS LIMA LAB",
+    "SETUBAL - JOSE MARIA DA FONSECA PERIQUITA",
+    "DOURO - PORCA DE MURCA",
+    "DOURO - QUINTA DOS ACIPRESTES"
+   ]
+  },
+  "muscadet_german_riesling_any_price": {
+   "n": 10,
+   "mean_gap_cautious": 2.03,
+   "share_positive_cautious": 100,
+   "mean_gap_A": 2.04,
+   "mean_gap_B": 2.18,
+   "bc_median": 57.989999999999995,
+   "bottles": [
+    "RIESLING - EGON MULLER SCHARZHOF 2022",
+    "RIESLING KABINETT BRAUNEBERGER - FRITZ HAAG 2016",
+    "MOSEL RIESLING SPATLESE - DR LOOSEN WEHLENER SONNENUHR",
+    "MOSEL RIESLING SPATLESE - DR LOOSEN URZIGER WURZGARTEN",
+    "RIESLING SPATLESE - DR LOOSEN ERDENER TREPPCHEN 2015",
+    "RIESLING TROCKEN BRAUNEBERGER - FRITZ HAAG 2021",
+    "RIESLING SPATLESE - ROBERT WEIL RHEINGAU 2021",
+    "RIESLING SPATLESE - J J PRUM GRAACHER HIMMELREICH 2018",
+    "RIESLING TROCKEN - ROBERT WEIL KIEDRICH GRAFENBERG G G 2021",
+    "RIESLING - DR LOOSEN ERDENER TREPPCHEN GG ALTE REBEN 18"
+   ]
+  },
+  "bc_rerank_CA22_35_groups": [
+   {
+    "country": "Portugal",
+    "grape": "Portuguese Red",
+    "n": 3,
+    "cau": 2.05,
+    "bc_med": 26.99,
+    "rank": 1
+   },
+   {
+    "country": "France",
+    "grape": "Rh\u00f4ne-style Red Blend",
+    "n": 3,
+    "cau": 1.56,
+    "bc_med": 29.99,
+    "rank": 2
+   },
+   {
+    "country": "Italy",
+    "grape": "Sangiovese",
+    "n": 4,
+    "cau": 1.09,
+    "bc_med": 33.99,
+    "rank": 3
+   },
+   {
+    "country": "Italy",
+    "grape": "Red Blend",
+    "n": 9,
+    "cau": 0.91,
+    "bc_med": 27.99,
+    "rank": 4
+   },
+   {
+    "country": "Chile",
+    "grape": "Cabernet Sauvignon",
+    "n": 3,
+    "cau": 0.87,
+    "bc_med": 23.99,
+    "rank": 5
+   },
+   {
+    "country": "Argentina",
+    "grape": "Malbec",
+    "n": 3,
+    "cau": 0.72,
+    "bc_med": 24.99,
+    "rank": 6
+   },
+   {
+    "country": "US",
+    "grape": "Merlot",
+    "n": 4,
+    "cau": 0.62,
+    "bc_med": 23.49,
+    "rank": 7
+   },
+   {
+    "country": "New Zealand",
+    "grape": "Sauvignon Blanc",
+    "n": 8,
+    "cau": 0.27,
+    "bc_med": 25.49,
+    "rank": 8
+   }
+  ],
+  "bc_rerank_CA22_35_countries": [
+   {
+    "country": "Italy",
+    "n": 20,
+    "cau": 0.88,
+    "bc_med": 25.99,
+    "rank": 1
+   },
+   {
+    "country": "Chile",
+    "n": 5,
+    "cau": 0.75,
+    "bc_med": 23.99,
+    "rank": 2
+   },
+   {
+    "country": "France",
+    "n": 8,
+    "cau": 0.74,
+    "bc_med": 30.49,
+    "rank": 3
+   },
+   {
+    "country": "US",
+    "n": 46,
+    "cau": 0.39,
+    "bc_med": 25.24,
+    "rank": 4
+   },
+   {
+    "country": "Argentina",
+    "n": 6,
+    "cau": 0.17,
+    "bc_med": 24.99,
+    "rank": 5
+   },
+   {
+    "country": "New Zealand",
+    "n": 11,
+    "cau": -0.04,
+    "bc_med": 24.99,
+    "rank": 6
+   },
+   {
+    "country": "Australia",
+    "n": 6,
+    "cau": -0.35,
+    "bc_med": 29.99,
+    "rank": 7
+   }
+  ],
+  "bc_rerank_upto21_countries": [
+   {
+    "country": "Italy",
+    "n": 13,
+    "cau": 0.53,
+    "bc_med": 16.99,
+    "rank": 1
+   },
+   {
+    "country": "New Zealand",
+    "n": 8,
+    "cau": 0.39,
+    "bc_med": 17.99,
+    "rank": 2
+   },
+   {
+    "country": "Chile",
+    "n": 18,
+    "cau": 0.28,
+    "bc_med": 16.24,
+    "rank": 3
+   },
+   {
+    "country": "US",
+    "n": 13,
+    "cau": 0.21,
+    "bc_med": 18.99,
+    "rank": 4
+   },
+   {
+    "country": "Argentina",
+    "n": 15,
+    "cau": -0.06,
+    "bc_med": 15.99,
+    "rank": 5
+   },
+   {
+    "country": "Australia",
+    "n": 12,
+    "cau": -0.35,
+    "bc_med": 15.99,
+    "rank": 6
+   },
+   {
+    "country": "Portugal",
+    "n": 8,
+    "cau": -0.88,
+    "bc_med": 13.49,
+    "rank": 7
+   }
+  ],
+  "category_quantiles": {
+   "Portuguese Red, Portugal": {
+    "bc_n": 23,
+    "bc_q": [
+     11.99,
+     13.99,
+     18.99,
+     32.99,
+     54.59
+    ],
+    "we_n": 2028,
+    "we_q_usd": [
+     9.0,
+     12.0,
+     17.0,
+     28.0,
+     50.0
+    ],
+    "bc_over_we_at_1.40": [
+     0.83,
+     0.8,
+     0.84
+    ]
+   },
+   "Shiraz, Australia": {
+    "bc_n": 57,
+    "bc_q": [
+     13.790000000000001,
+     18.99,
+     22.99,
+     36.99,
+     128.58999999999995
+    ],
+    "we_n": 583,
+    "we_q_usd": [
+     13.0,
+     18.0,
+     27.0,
+     60.0,
+     89.80000000000007
+    ],
+    "bc_over_we_at_1.40": [
+     0.75,
+     0.61,
+     0.44
+    ]
+   }
+  },
+  "portugal_red_by_price": {
+   "all": {
+    "n": 11,
+    "mean": 1.75,
+    "pos": 9
+   },
+   "ca18_40": {
+    "n": 4,
+    "mean": 2.16,
+    "pos": 4
+   },
+   "under18": {
+    "n": 4,
+    "mean": -0.4,
+    "pos": 2
+   }
+  },
+  "shiraz_all": {
+   "n": 10,
+   "mean": 1.36,
+   "pos": 9
+  },
+  "by_bc_band": [
+   {
+    "band": "\u226421",
+    "n": "97",
+    "mean": "0.01",
+    "pos": "0.55"
+   },
+   {
+    "band": "22\u201335",
+    "n": "108",
+    "mean": "0.46",
+    "pos": "0.61"
+   },
+   {
+    "band": "36\u201370",
+    "n": "108",
+    "mean": "0.56",
+    "pos": "0.66"
+   },
+   {
+    "band": "71\u2013140",
+    "n": "87",
+    "mean": "0.77",
+    "pos": "0.66"
+   },
+   {
+    "band": ">140",
+    "n": "65",
+    "mean": "0.5",
+    "pos": "0.57"
+   }
+  ]
+ },
+ "pt_rows": [
+  {
+   "bc_name": "SETUBAL - JOSE MARIA DA FONSECA PERIQUITA",
+   "bc_price": 11.47,
+   "we_title": "Jos\u00e9 Maria da Fonseca 2005 Periquita Red (Terras do Sado)",
+   "we_med": 10.0,
+   "cau": 0.53,
+   "n": 5
+  },
+  {
+   "bc_name": "LISBOA - CASA SANTOS LIMA LAB",
+   "bc_price": 13.49,
+   "we_title": "Casa Santos Lima 2015 Lab Red (Lisboa)",
+   "we_med": 10.0,
+   "cau": -1.07,
+   "n": 1
+  },
+  {
+   "bc_name": "DOURO - VICENTE FARIA ANIMUS",
+   "bc_price": 13.99,
+   "we_title": "Vicente Faria Vinhos 2015 Animus Red (Douro)",
+   "we_med": 13.0,
+   "cau": -2.36,
+   "n": 2
+  },
+  {
+   "bc_name": "DOURO - PORCA DE MURCA",
+   "bc_price": 13.99,
+   "we_title": "Real Companhia Velha 2007 Porca de Mur\u00e7a Tinto Red (Douro)",
+   "we_med": 14.0,
+   "cau": 1.28,
+   "n": 2
+  },
+  {
+   "bc_name": "DOURO - QUINTA DOS ACIPRESTES",
+   "bc_price": 22.99,
+   "we_title": "Real Companhia Velha 2008 Quinta dos Aciprestes Red (Douro)",
+   "we_med": 16.0,
+   "cau": 1.8,
+   "n": 2
+  },
+  {
+   "bc_name": "DOURO - QUINTA DAS CARVALHAS",
+   "bc_price": 26.99,
+   "we_title": "Quinta das Carvalhas 2012 Red (Douro)",
+   "we_med": 15.0,
+   "cau": 3.03,
+   "n": 3
+  },
+  {
+   "bc_name": "DAO - VINHA PAZ RED BLEND 2022",
+   "bc_price": 33.99,
+   "we_title": "Vinha Paz 2008 Colheita Red (D\u00e3o)",
+   "we_med": 27.0,
+   "cau": 1.31,
+   "n": 4
+  },
+  {
+   "bc_name": "DOURO - QUINTA DO VALE MEAO MEANDRO",
+   "bc_price": 37.99,
+   "we_title": "Quinta do Vale Me\u00e3o 2014 Meandro do Vale Me\u00e3o Red (Douro)",
+   "we_med": 20.0,
+   "cau": 2.52,
+   "n": 3
+  },
+  {
+   "bc_name": "DAO RESERVA - VINHA PAZ 2021",
+   "bc_price": 48.99,
+   "we_title": "Vinha Paz 2007 Reserva Red (D\u00e3o)",
+   "we_med": 45.0,
+   "cau": 4.15,
+   "n": 5
+  },
+  {
+   "bc_name": "DOURO - QUINTA DO VALE MEAO 2020",
+   "bc_price": 215.99,
+   "we_title": "Quinta do Vale Me\u00e3o 2014 Red (Douro)",
+   "we_med": 87.0,
+   "cau": 3.62,
+   "n": 6
+  },
+  {
+   "bc_name": "DOURO - CASA FERREIRINHA BARCA VELHA",
+   "bc_price": 550.0,
+   "we_title": "Casa Ferreirinha 2008 Barca-Velha Red (Douro)",
+   "we_med": 450.0,
+   "cau": 4.4,
+   "n": 1
+  }
+ ],
+ "sh_rows": [
+  {
+   "bc_name": "SHIRAZ - YELLOW TAIL",
+   "bc_price": 11.99,
+   "we_title": "Yellow Tail 2001 Shiraz (South Eastern Australia)",
+   "we_med": 7.0,
+   "cau": 1.78,
+   "n": 1
+  },
+  {
+   "bc_name": "SHIRAZ - WAKEFIELD CLARE VALLEY 2021",
+   "bc_price": 15.99,
+   "we_title": "Wakefield 2005 Shiraz (Clare Valley)",
+   "we_med": 17.0,
+   "cau": 1.86,
+   "n": 3
+  },
+  {
+   "bc_name": "SHIRAZ CABERNET SAUVIGNON - PENFOLDS KOONUNGA HILL",
+   "bc_price": 19.99,
+   "we_title": "Penfolds 1999 Koonunga Hill Shiraz-Cabernet Sauvignon (South Eastern Australia)",
+   "we_med": 15.0,
+   "cau": 0.84,
+   "n": 1
+  },
+  {
+   "bc_name": "SHIRAZ - PETER LEHMANN BAROSSA PORTRAIT",
+   "bc_price": 19.99,
+   "we_title": "Peter Lehmann 2014 Portrait Shiraz (Barossa Valley)",
+   "we_med": 16.5,
+   "cau": 1.5,
+   "n": 2
+  },
+  {
+   "bc_name": "SHIRAZ - MILES FROM NOWHERE",
+   "bc_price": 30.99,
+   "we_title": "Miles From Nowhere 2011 Shiraz (Margaret River)",
+   "we_med": 13.0,
+   "cau": 1.57,
+   "n": 1
+  },
+  {
+   "bc_name": "SHIRAZ - PENFOLDS BIN 28 KALIMNA 2022",
+   "bc_price": 48.99,
+   "we_title": "Penfolds 2012 Bin 28 Kalimna Shiraz (South Australia)",
+   "we_med": 28.0,
+   "cau": 1.79,
+   "n": 2
+  },
+  {
+   "bc_name": "SHIRAZ- PENFOLDS BIN 128 COONAWARRA 2019",
+   "bc_price": 49.99,
+   "we_title": "Penfolds 2007 Bin 128 Shiraz (Coonawarra)",
+   "we_med": 23.5,
+   "cau": 1.05,
+   "n": 4
+  },
+  {
+   "bc_name": "SHIRAZ - PENFOLDS MAGILL ESTATE 2018",
+   "bc_price": 154.99,
+   "we_title": "Penfolds 2003 Magill Estate Shiraz (South Australia)",
+   "we_med": 50.0,
+   "cau": -0.42,
+   "n": 1
+  },
+  {
+   "bc_name": "SHIRAZ - PENFOLDS ST. HENRI 2020",
+   "bc_price": 164.99,
+   "we_title": "Penfolds 2007 St. Henri Shiraz (South Australia)",
+   "we_med": 65.0,
+   "cau": 1.84,
+   "n": 3
+  },
+  {
+   "bc_name": "SHIRAZ - PENFOLDS GRANGE 2021",
+   "bc_price": 1050.0,
+   "we_title": "Penfolds 1996 Grange Shiraz (South Australia)",
+   "we_med": 675.0,
+   "cau": 1.75,
+   "n": 4
+  }
+ ],
+ "n_matched": 465,
+ "iowa_cat": [
+  {
+   "category": "100% AGAVE TEQUILA",
+   "n": 8,
+   "med": 1.99
+  },
+  {
+   "category": "AMERICAN VODKAS",
+   "n": 2,
+   "med": 2.24
+  },
+  {
+   "category": "CANADIAN WHISKIES",
+   "n": 4,
+   "med": 1.18
+  },
+  {
+   "category": "COFFEE LIQUEURS",
+   "n": 1,
+   "med": 1.48
+  },
+  {
+   "category": "CREAM LIQUEURS",
+   "n": 2,
+   "med": 1.51
+  },
+  {
+   "category": "FLAVORED RUM",
+   "n": 1,
+   "med": 1.93
+  },
+  {
+   "category": "IMPORTED BRANDIES",
+   "n": 1,
+   "med": 2.43
+  },
+  {
+   "category": "IMPORTED CORDIALS & LIQUEUR",
+   "n": 4,
+   "med": 1.66
+  },
+  {
+   "category": "IMPORTED DRY GINS",
+   "n": 3,
+   "med": 1.38
+  },
+  {
+   "category": "IMPORTED VODKAS",
+   "n": 3,
+   "med": 2.15
+  },
+  {
+   "category": "IRISH WHISKIES",
+   "n": 1,
+   "med": 1.52
+  },
+  {
+   "category": "MIXTO TEQUILA",
+   "n": 2,
+   "med": 2.16
+  },
+  {
+   "category": "SINGLE MALT SCOTCH",
+   "n": 1,
+   "med": 1.81
+  },
+  {
+   "category": "SPICED RUM",
+   "n": 1,
+   "med": 1.97
+  },
+  {
+   "category": "STRAIGHT BOURBON WHISKIES",
+   "n": 8,
+   "med": 1.81
+  },
+  {
+   "category": "TENNESSEE WHISKIES",
+   "n": 3,
+   "med": 1.61
+  },
+  {
+   "category": "WHISKEY LIQUEUR",
+   "n": 1,
+   "med": 1.85
+  },
+  {
+   "category": "WHITE RUM",
+   "n": 1,
+   "med": 1.78
+  }
+ ]
+}

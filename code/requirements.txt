@@ -1,0 +1,8 @@
+# Versions the Part C pipeline was tested with (python3 -I code/run_all.py, October 30, 2026; Python 3.13.17).
+# Other versions usually work, but fuzzy-match scores and sort order can differ; run_all.py reports any drift in the matched pairs.
+pandas==3.0.5
+numpy==2.5.3
+statsmodels==0.15.0
+rapidfuzz==3.14.6
+Unidecode==1.4.0
+matplotlib==3.11.2

@@ -1,0 +1,52 @@
+country,we_variety,n,mean_low_resid,bc_med,band,rank
+Australia,Shiraz,3,1.711,15.99,CA$21 or less,1
+US,Cabernet Sauvignon,4,1.409,19.24,CA$21 or less,2
+New Zealand,Sauvignon Blanc,7,0.792,17.99,CA$21 or less,3
+Chile,Sauvignon Blanc,4,0.514,15.99,CA$21 or less,4
+Argentina,Malbec,8,0.181,15.99,CA$21 or less,5
+Argentina,Cabernet Sauvignon,3,0.004,17.99,CA$21 or less,6
+Chile,Cabernet Sauvignon,5,-0.331,12.99,CA$21 or less,7
+Portugal,Portuguese Red,4,-0.404,13.74,CA$21 or less,8
+Italy,Pinot Grigio,3,-0.424,16.99,CA$21 or less,9
+Argentina,Chardonnay,3,-0.563,14.99,CA$21 or less,10
+Chile,Pinot Noir,3,-0.678,14.99,CA$21 or less,11
+Australia,Chardonnay,4,-1.143,15.49,CA$21 or less,12
+US,Chardonnay,3,-1.473,16.49,CA$21 or less,13
+Portugal,Portuguese Red,3,2.046,26.99,CA$22-35,1
+France,Rhône-style Red Blend,3,1.885,29.99,CA$22-35,2
+Chile,Cabernet Sauvignon,3,1.462,23.99,CA$22-35,3
+Italy,Sangiovese,4,1.23,33.99,CA$22-35,4
+Italy,Red Blend,9,0.915,27.99,CA$22-35,5
+Argentina,Malbec,3,0.718,24.99,CA$22-35,6
+US,Merlot,4,0.62,23.49,CA$22-35,7
+US,Chardonnay,11,0.297,24.49,CA$22-35,8
+New Zealand,Sauvignon Blanc,7,0.238,25.99,CA$22-35,9
+US,Pinot Noir,5,-0.125,28.49,CA$22-35,10
+US,Cabernet Sauvignon,17,-0.13,25.99,CA$22-35,11
+New Zealand,Pinot Noir,3,-0.852,24.99,CA$22-35,12
+New Zealand,Sauvignon Blanc,4,2.62,40.99,CA$36-70,1
+Germany,Riesling,6,2.43,45.49,CA$36-70,2
+France,Bordeaux-style Red Blend,3,1.033,50.0,CA$36-70,3
+France,Riesling,4,0.813,57.99,CA$36-70,4
+Italy,Red Blend,8,0.673,51.99,CA$36-70,5
+US,Cabernet Sauvignon,11,0.227,49.99,CA$36-70,6
+Italy,Nebbiolo,6,-0.032,46.49,CA$36-70,7
+US,Pinot Noir,7,-0.066,51.99,CA$36-70,8
+France,Chardonnay,6,-1.121,42.49,CA$36-70,9
+France,Riesling,4,2.813,111.49,CA$71-140,1
+Germany,Riesling,3,1.333,119.99,CA$71-140,2
+France,Bordeaux-style Red Blend,7,1.3,100.0,CA$71-140,3
+Italy,Sangiovese,3,1.161,115.99,CA$71-140,4
+Italy,Nebbiolo,15,0.934,84.99,CA$71-140,5
+France,Chardonnay,8,0.487,124.99,CA$71-140,6
+Italy,Sangiovese Grosso,5,0.426,105.99,CA$71-140,7
+Italy,Red Blend,8,-0.099,84.99,CA$71-140,8
+US,Cabernet Sauvignon,6,-0.304,108.99,CA$71-140,9
+France,Pinot Noir,4,-1.27,102.99,CA$71-140,10
+Italy,Sangiovese Grosso,7,1.22,289.99,over CA$140,1
+Australia,Shiraz,3,1.056,164.99,over CA$140,2
+US,Cabernet Sauvignon,6,0.616,180.99,over CA$140,3
+Italy,Nebbiolo,8,0.601,177.99,over CA$140,4
+France,Chardonnay,6,-0.453,185.49,over CA$140,5
+France,Bordeaux-style Red Blend,8,-0.585,450.0,over CA$140,6
+France,Pinot Noir,4,-0.67,197.99,over CA$140,7

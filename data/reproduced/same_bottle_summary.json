@@ -1,0 +1,178 @@
+{
+ "candidates": 460,
+ "rule_matches_all": 451,
+ "manual_matches_all": 8,
+ "matched_all": 459,
+ "excluded": 8,
+ "frozen_key_drift": 0,
+ "rule_matches": 444,
+ "manual_matches": 7,
+ "matched_total": 451,
+ "overall_median_ratio": 1.56,
+ "reviews_per_bottle": {
+  "median": 2.0,
+  "share_le_2": 65,
+  "max": 9
+ },
+ "matched_price_medians": {
+  "we_usd": 27.0,
+  "bc_cad": 41.99
+ },
+ "identity_fix": {
+  "rule_matches_pooling_other_appellations_under_old_key": 60,
+  "of_which_median_us_price_changed_over_10pct": 22,
+  "median_ratio_rule_matches_new_key": 1.555,
+  "median_ratio_rule_matches_old_key": 1.548
+ },
+ "n_regression": 451,
+ "pct_per_point_matched": {
+  "US": 22.1,
+  "BC": 22.7
+ },
+ "by_origin": [
+  {
+   "country": "Argentina",
+   "n": 28,
+   "median_ratio": 1.3,
+   "q1": 1.22,
+   "q3": 1.52,
+   "we_med": 15.0,
+   "bc_med": 19.99,
+   "vs_all_median_pct": -16.51,
+   "US_price_pct_below_France": 5.2,
+   "BC_price_pct_below_France": 30.8
+  },
+  {
+   "country": "Australia",
+   "n": 27,
+   "median_ratio": 1.58,
+   "q1": 1.33,
+   "q3": 1.78,
+   "we_med": 19.0,
+   "bc_med": 28.99,
+   "vs_all_median_pct": 1.26,
+   "US_price_pct_below_France": 11.7,
+   "BC_price_pct_below_France": 23.0
+  },
+  {
+   "country": "Austria",
+   "n": 1,
+   "median_ratio": 1.53,
+   "q1": 1.53,
+   "q3": 1.53,
+   "we_med": 64.0,
+   "bc_med": 97.99,
+   "vs_all_median_pct": -1.77,
+   "US_price_pct_below_France": -57.6,
+   "BC_price_pct_below_France": -32.1
+  },
+  {
+   "country": "Chile",
+   "n": 23,
+   "median_ratio": 1.21,
+   "q1": 1.15,
+   "q3": 1.43,
+   "we_med": 15.0,
+   "bc_med": 17.49,
+   "vs_all_median_pct": -22.14,
+   "US_price_pct_below_France": 26.1,
+   "BC_price_pct_below_France": 49.6
+  },
+  {
+   "country": "France",
+   "n": 87,
+   "median_ratio": 1.79,
+   "q1": 1.58,
+   "q3": 2.77,
+   "we_med": 45.0,
+   "bc_med": 94.99,
+   "vs_all_median_pct": 14.78,
+   "US_price_pct_below_France": null,
+   "BC_price_pct_below_France": null
+  },
+  {
+   "country": "Germany",
+   "n": 9,
+   "median_ratio": 1.36,
+   "q1": 1.3,
+   "q3": 1.57,
+   "we_med": 35.0,
+   "bc_med": 49.99,
+   "vs_all_median_pct": -12.54,
+   "US_price_pct_below_France": -18.6,
+   "BC_price_pct_below_France": -1.8
+  },
+  {
+   "country": "Italy",
+   "n": 110,
+   "median_ratio": 1.46,
+   "q1": 1.25,
+   "q3": 1.8,
+   "we_med": 50.0,
+   "bc_med": 69.99,
+   "vs_all_median_pct": -6.57,
+   "US_price_pct_below_France": -7.9,
+   "BC_price_pct_below_France": 11.4
+  },
+  {
+   "country": "New Zealand",
+   "n": 26,
+   "median_ratio": 1.39,
+   "q1": 1.2,
+   "q3": 1.66,
+   "we_med": 18.5,
+   "bc_med": 24.99,
+   "vs_all_median_pct": -10.72,
+   "US_price_pct_below_France": 22.0,
+   "BC_price_pct_below_France": 42.7
+  },
+  {
+   "country": "Portugal",
+   "n": 15,
+   "median_ratio": 1.35,
+   "q1": 1.16,
+   "q3": 1.67,
+   "we_med": 14.0,
+   "bc_med": 13.99,
+   "vs_all_median_pct": -13.46,
+   "US_price_pct_below_France": 23.7,
+   "BC_price_pct_below_France": 42.5
+  },
+  {
+   "country": "South Africa",
+   "n": 3,
+   "median_ratio": 1.44,
+   "q1": 1.24,
+   "q3": 1.57,
+   "we_med": 18.0,
+   "bc_med": 18.49,
+   "vs_all_median_pct": -7.4,
+   "US_price_pct_below_France": -0.8,
+   "BC_price_pct_below_France": 25.9
+  },
+  {
+   "country": "Spain",
+   "n": 18,
+   "median_ratio": 1.53,
+   "q1": 1.29,
+   "q3": 1.81,
+   "we_med": 34.0,
+   "bc_med": 51.99,
+   "vs_all_median_pct": -1.89,
+   "US_price_pct_below_France": -5.5,
+   "BC_price_pct_below_France": 10.2
+  },
+  {
+   "country": "US",
+   "n": 104,
+   "median_ratio": 1.6,
+   "q1": 1.46,
+   "q3": 1.91,
+   "we_med": 23.0,
+   "bc_med": 30.49,
+   "vs_all_median_pct": 2.63,
+   "US_price_pct_below_France": 16.2,
+   "BC_price_pct_below_France": 27.6
+  }
+ ]
+}

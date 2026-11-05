@@ -1,0 +1,842 @@
+{
+ "raw rows": {
+  "slide": 3,
+  "claimed": 129971,
+  "recomputed": 129971,
+  "match": true,
+  "kind": "check"
+ },
+ "duplicates removed": {
+  "slide": 3,
+  "claimed": 9983,
+  "recomputed": 9983,
+  "match": true,
+  "kind": "check"
+ },
+ "no price or country": {
+  "slide": 3,
+  "claimed": 8450,
+  "recomputed": 8450,
+  "match": true,
+  "kind": "check"
+ },
+ "reviews used": {
+  "slide": 3,
+  "claimed": 111538,
+  "recomputed": 111538,
+  "match": true,
+  "kind": "check"
+ },
+ "share kept %": {
+  "slide": 3,
+  "claimed": 86,
+  "recomputed": 86,
+  "match": true,
+  "kind": "check"
+ },
+ "critics": {
+  "slide": 3,
+  "claimed": 19,
+  "recomputed": 19,
+  "match": true,
+  "kind": "check"
+ },
+ "median $ at 80": {
+  "slide": 4,
+  "claimed": 14,
+  "recomputed": 14.0,
+  "match": true,
+  "kind": "check"
+ },
+ "median $ at 90": {
+  "slide": 4,
+  "claimed": 30,
+  "recomputed": 30.0,
+  "match": true,
+  "kind": "check"
+ },
+ "median $ at 100": {
+  "slide": 4,
+  "claimed": 359,
+  "recomputed": 359.0,
+  "match": true,
+  "kind": "check"
+ },
+ "premium per point % (critic+grape+country)": {
+  "slide": 4,
+  "claimed": 12.8,
+  "recomputed": 12.8,
+  "match": true,
+  "kind": "check"
+ },
+ "premium 95% CI": {
+  "slide": 4,
+  "claimed": [
+   12.7,
+   12.9
+  ],
+  "recomputed": [
+   12.7,
+   12.9
+  ],
+  "match": true,
+  "kind": "check"
+ },
+ "step 89->90 %": {
+  "slide": 4,
+  "claimed": 15,
+  "recomputed": 15,
+  "match": true,
+  "kind": "check"
+ },
+ "neighbour steps range %": {
+  "slide": 4,
+  "claimed": [
+   8,
+   27
+  ],
+  "recomputed": [
+   8,
+   27
+  ],
+  "match": true,
+  "kind": "check"
+ },
+ "typical score at $20": {
+  "slide": 5,
+  "claimed": 87.5,
+  "recomputed": 87.5,
+  "match": true,
+  "kind": "check"
+ },
+ "gap for 90 at $20": {
+  "slide": 5,
+  "claimed": 2.5,
+  "recomputed": 2.5,
+  "match": true,
+  "kind": "check"
+ },
+ "R2 with critic adj.": {
+  "slide": 12,
+  "claimed": 0.44,
+  "recomputed": 0.44,
+  "match": true,
+  "kind": "check"
+ },
+ "R2 without": {
+  "slide": 12,
+  "claimed": 0.41,
+  "recomputed": 0.41,
+  "match": true,
+  "kind": "check"
+ },
+ "mean gap per critic is 0 (max abs)": {
+  "slide": 12,
+  "claimed": "< 1e-9",
+  "recomputed": 6.315927790494217e-12,
+  "match": true,
+  "kind": "check"
+ },
+ "Austria without adj.": {
+  "slide": 7,
+  "claimed": 1.6,
+  "recomputed": 1.6,
+  "match": true,
+  "kind": "check"
+ },
+ "Austria with adj.": {
+  "slide": 7,
+  "claimed": 0.3,
+  "recomputed": 0.3,
+  "match": true,
+  "kind": "check"
+ },
+ "unclassified style %": {
+  "slide": 12,
+  "claimed": 2.8,
+  "recomputed": 2.8,
+  "match": true,
+  "kind": "check"
+ },
+ "fortified gap both ways": {
+  "slide": 8,
+  "claimed": [
+   0.68,
+   0.85
+  ],
+  "recomputed": [
+   0.68,
+   0.85
+  ],
+  "match": true,
+  "kind": "check"
+ },
+ "rosé gap about -0.5": {
+  "slide": 8,
+  "claimed": -0.5,
+  "recomputed": [
+   -0.47,
+   -0.49
+  ],
+  "match": true,
+  "kind": "check"
+ },
+ "critic coverage": {
+  "slide": 7,
+  "claimed": {
+   "US": [
+    "Virginie Boone",
+    17
+   ],
+   "France": [
+    "Roger Voss",
+    81
+   ],
+   "Italy": [
+    "Kerin O’Keefe",
+    57
+   ],
+   "Spain": [
+    "Michael Schachner",
+    99
+   ],
+   "Portugal": [
+    "Roger Voss",
+    99
+   ],
+   "Chile": [
+    "Michael Schachner",
+    97
+   ],
+   "Argentina": [
+    "Michael Schachner",
+    100
+   ],
+   "Austria": [
+    "Anne Krebiehl MW",
+    69
+   ],
+   "Australia": [
+    "Joe Czerwinski",
+    87
+   ],
+   "Germany": [
+    "Anna Lee C. Iijima",
+    81
+   ]
+  },
+  "recomputed": {
+   "US": [
+    "Virginie Boone",
+    17
+   ],
+   "France": [
+    "Roger Voss",
+    81
+   ],
+   "Italy": [
+    "Kerin O’Keefe",
+    57
+   ],
+   "Spain": [
+    "Michael Schachner",
+    99
+   ],
+   "Portugal": [
+    "Roger Voss",
+    99
+   ],
+   "Chile": [
+    "Michael Schachner",
+    97
+   ],
+   "Argentina": [
+    "Michael Schachner",
+    100
+   ],
+   "Austria": [
+    "Anne Krebiehl MW",
+    69
+   ],
+   "Australia": [
+    "Joe Czerwinski",
+    87
+   ],
+   "Germany": [
+    "Anna Lee C. Iijima",
+    81
+   ]
+  },
+  "match": true,
+  "kind": "check"
+ },
+ "eligible groups (median <= $25, n >= 30)": {
+  "slide": 6,
+  "claimed": 178,
+  "recomputed": 178,
+  "match": true,
+  "kind": "check"
+ },
+ "corr share90 vs median price": {
+  "slide": 6,
+  "claimed": 0.69,
+  "recomputed": 0.69,
+  "match": true,
+  "kind": "check"
+ },
+ "Moschofilero rank by share90": {
+  "slide": 6,
+  "claimed": 72,
+  "recomputed": 72,
+  "match": true,
+  "kind": "check"
+ },
+ "Moschofilero gap": {
+  "slide": 6,
+  "claimed": 2.4,
+  "recomputed": 2.4,
+  "match": true,
+  "kind": "check"
+ },
+ "Austrian Chardonnay rank": {
+  "slide": 6,
+  "claimed": 4,
+  "recomputed": 4,
+  "match": true,
+  "kind": "check"
+ },
+ "Austrian Chardonnay gap about 0": {
+  "slide": 6,
+  "claimed": "≈0",
+  "recomputed": -0.08,
+  "match": true,
+  "kind": "check"
+ },
+ "tier counts": {
+  "slide": 10,
+  "claimed": [
+   23260,
+   33137,
+   36661,
+   15251,
+   3229
+  ],
+  "recomputed": [
+   23260,
+   33137,
+   36661,
+   15251,
+   3229
+  ],
+  "match": true,
+  "kind": "check"
+ },
+ "red $16-25 top 3 (cautious)": {
+  "slide": 8,
+  "claimed": [
+   "Portugal Portuguese Red 1.38",
+   "Australia Shiraz 0.98",
+   "France Malbec 0.94"
+  ],
+  "recomputed": [
+   "Portugal Portuguese Red 1.38",
+   "Australia Shiraz 0.98",
+   "France Malbec 0.94"
+  ],
+  "match": true,
+  "kind": "check"
+ },
+ "Portuguese red n, median": {
+  "slide": 8,
+  "claimed": [
+   535,
+   20
+  ],
+  "recomputed": [
+   535,
+   20.0
+  ],
+  "match": true,
+  "kind": "check"
+ },
+ "Shiraz n, median": {
+  "slide": 8,
+  "claimed": [
+   166,
+   20
+  ],
+  "recomputed": [
+   166,
+   20.0
+  ],
+  "match": true,
+  "kind": "check"
+ },
+ "Malbec FR n, median": {
+  "slide": 8,
+  "claimed": [
+   137,
+   20
+  ],
+  "recomputed": [
+   137,
+   20.0
+  ],
+  "match": true,
+  "kind": "check"
+ },
+ "red $16-25 weakest 2 (best estimate)": {
+  "slide": 8,
+  "claimed": [
+   "Argentina Pinot Noir -1.27",
+   "France Pinot Noir -1.21"
+  ],
+  "recomputed": [
+   "Argentina Pinot Noir -1.27",
+   "France Pinot Noir -1.21"
+  ],
+  "match": true,
+  "kind": "check"
+ },
+ "red top 10 same both ways": {
+  "slide": 8,
+  "claimed": 8,
+  "recomputed": 8,
+  "match": true,
+  "kind": "check"
+ },
+ "white top 10 same both ways": {
+  "slide": 8,
+  "claimed": 9,
+  "recomputed": 9,
+  "match": true,
+  "kind": "check"
+ },
+ "white $16-25 top 3": {
+  "slide": 8,
+  "claimed": [
+   "France Melon",
+   "Germany Riesling",
+   "Australia Riesling"
+  ],
+  "recomputed": [
+   "France Melon",
+   "Germany Riesling",
+   "Australia Riesling"
+  ],
+  "match": true,
+  "kind": "check"
+ },
+ "Muscadet cautious": {
+  "slide": 10,
+  "claimed": 1.7,
+  "recomputed": 1.7,
+  "match": true,
+  "kind": "check"
+ },
+ "shelf graphic rows": {
+  "slide": 10,
+  "claimed": {
+   "Over $100": [
+    "Italy Sangiovese Grosso +0.3",
+    "France Chardonnay -0.4",
+    "Italy Sangiovese -0.1"
+   ],
+   "$51–100": [
+    "Portugal Portuguese Red +1.1",
+    "France Sauvignon Blanc +1.0",
+    "New Zealand Pinot Noir -0.3"
+   ],
+   "$26–50": [
+    "France Malbec +1.6",
+    "France Chenin Blanc +1.1",
+    "France Pinot Noir -0.7"
+   ],
+   "$16–25": [
+    "Portugal Portuguese Red +1.4",
+    "France Melon +1.7",
+    "Argentina Pinot Noir -1.3"
+   ],
+   "Up to $15": [
+    "Portugal Portuguese Red +0.6",
+    "Germany Riesling +0.9",
+    "Argentina Chardonnay -0.9"
+   ]
+  },
+  "recomputed": {
+   "Up to $15": [
+    "Portugal Portuguese Red +0.6",
+    "Germany Riesling +0.9",
+    "Argentina Chardonnay -0.9"
+   ],
+   "$16–25": [
+    "Portugal Portuguese Red +1.4",
+    "France Melon +1.7",
+    "Argentina Pinot Noir -1.3"
+   ],
+   "$26–50": [
+    "France Malbec +1.6",
+    "France Chenin Blanc +1.1",
+    "France Pinot Noir -0.7"
+   ],
+   "$51–100": [
+    "Portugal Portuguese Red +1.1",
+    "France Sauvignon Blanc +1.0",
+    "New Zealand Pinot Noir -0.3"
+   ],
+   "Over $100": [
+    "Italy Sangiovese Grosso +0.3",
+    "France Chardonnay -0.4",
+    "Italy Sangiovese -0.1"
+   ]
+  },
+  "match": true,
+  "kind": "check"
+ },
+ "$26-50: Malbec vs Portuguese red (close 2nd)": {
+  "slide": 10,
+  "claimed": [
+   1.6,
+   1.5
+  ],
+  "recomputed": [
+   1.6,
+   1.5
+  ],
+  "match": true,
+  "kind": "check"
+ },
+ "Portuguese red rank at $26-50": {
+  "slide": 10,
+  "claimed": 2,
+  "recomputed": 2,
+  "match": true,
+  "kind": "check"
+ },
+ "best group over $100 (cautious)": {
+  "slide": 11,
+  "claimed": 0.29,
+  "recomputed": 0.29,
+  "match": true,
+  "kind": "check"
+ },
+ "share scoring 80-82, up to $15 %": {
+  "slide": 11,
+  "claimed": 6.7,
+  "recomputed": 6.7,
+  "match": true,
+  "kind": "check"
+ },
+ "share scoring 80-82, $16-25 %": {
+  "slide": 11,
+  "claimed": 2.4,
+  "recomputed": 2.4,
+  "match": true,
+  "kind": "check"
+ },
+ "vintage check Red: top-10 overlap": {
+  "slide": 11,
+  "claimed": 10,
+  "recomputed": 10,
+  "match": true,
+  "kind": "check"
+ },
+ "vintage check Red: rank corr": {
+  "slide": 11,
+  "claimed": 0.98,
+  "recomputed": 0.98,
+  "match": true,
+  "kind": "check"
+ },
+ "vintage check White: top-10 overlap": {
+  "slide": 11,
+  "claimed": 9,
+  "recomputed": 9,
+  "match": true,
+  "kind": "check"
+ },
+ "vintage check White: rank corr": {
+  "slide": 11,
+  "claimed": 0.99,
+  "recomputed": 0.99,
+  "match": true,
+  "kind": "check"
+ },
+ "uniform rescale: max gap change": {
+  "slide": 12,
+  "claimed": "< 1e-9",
+  "recomputed": 1.0302869668521453e-11,
+  "match": true,
+  "kind": "check"
+ },
+ "inflation: top 2 red hold (as a set)": {
+  "slide": 12,
+  "claimed": true,
+  "recomputed": true,
+  "match": true,
+  "kind": "check"
+ },
+ "inflation: Red top 2 order after": {
+  "slide": 12,
+  "claimed": "-",
+  "recomputed": [
+   [
+    "Portugal",
+    "Portuguese Red"
+   ],
+   [
+    "Australia",
+    "Shiraz"
+   ]
+  ],
+  "match": true,
+  "kind": "record"
+ },
+ "inflation: rank corr Red": {
+  "slide": 12,
+  "claimed": 0.96,
+  "recomputed": 0.96,
+  "match": true,
+  "kind": "check"
+ },
+ "inflation: French Malbec rank in 2026 $": {
+  "slide": 12,
+  "claimed": 6,
+  "recomputed": 6,
+  "match": true,
+  "kind": "check"
+ },
+ "inflation: top 3 white hold (as a set)": {
+  "slide": 12,
+  "claimed": true,
+  "recomputed": true,
+  "match": true,
+  "kind": "check"
+ },
+ "inflation: White top 3 order after": {
+  "slide": 12,
+  "claimed": "-",
+  "recomputed": [
+   [
+    "France",
+    "Melon"
+   ],
+   [
+    "Australia",
+    "Riesling"
+   ],
+   [
+    "Germany",
+    "Riesling"
+   ]
+  ],
+  "match": true,
+  "kind": "record"
+ },
+ "inflation: rank corr White": {
+  "slide": 12,
+  "claimed": 0.95,
+  "recomputed": 0.95,
+  "match": true,
+  "kind": "check"
+ },
+ "origin premium (1 dp)": {
+  "slide": 12,
+  "claimed": "see slide",
+  "recomputed": {
+   "Chile": 28.5,
+   "Portugal": 22.4,
+   "Argentina": 19.7,
+   "Australia": 14.3,
+   "Spain": 12.5,
+   "France": 1.1
+  },
+  "match": true,
+  "kind": "record"
+ },
+ "origin premium below US %": {
+  "slide": 12,
+  "claimed": {
+   "Chile": 29,
+   "Portugal": 22,
+   "Argentina": 20,
+   "Australia": 14,
+   "Spain": 13,
+   "France": 1
+  },
+  "recomputed": {
+   "Chile": 29,
+   "Portugal": 22,
+   "Argentina": 20,
+   "Australia": 14,
+   "Spain": 13,
+   "France": 1
+  },
+  "match": true,
+  "kind": "check"
+ },
+ "origin model: % per point": {
+  "slide": 12,
+  "claimed": 12.2,
+  "recomputed": 12.2,
+  "match": true,
+  "kind": "check"
+ },
+ "BC wines listed": {
+  "slide": 3,
+  "claimed": 5957,
+  "recomputed": 5957,
+  "match": true,
+  "kind": "check"
+ },
+ "BC listings and medians": {
+  "slide": 9,
+  "claimed": {
+   "Portuguese red": [
+    23,
+    18.99
+   ],
+   "Shiraz AU": [
+    57,
+    22.99
+   ],
+   "Malbec FR": [
+    5,
+    37.99
+   ],
+   "Muscadet": [
+    6,
+    36.49
+   ],
+   "Riesling DE": [
+    54,
+    50.49
+   ],
+   "Riesling AU": [
+    3,
+    24.99
+   ],
+   "Pinot Noir AR": [
+    2,
+    18.99
+   ],
+   "Chardonnay AR": [
+    18,
+    19.99
+   ]
+  },
+  "recomputed": {
+   "Portuguese red": [
+    23,
+    18.99
+   ],
+   "Shiraz AU": [
+    57,
+    22.99
+   ],
+   "Malbec FR": [
+    5,
+    37.99
+   ],
+   "Muscadet": [
+    6,
+    36.49
+   ],
+   "Riesling DE": [
+    54,
+    50.49
+   ],
+   "Riesling AU": [
+    3,
+    24.99
+   ],
+   "Pinot Noir AR": [
+    2,
+    18.99
+   ],
+   "Chardonnay AR": [
+    18,
+    19.99
+   ]
+  },
+  "match": true,
+  "kind": "check"
+ },
+ "till price of CA$25 at 15% tax": {
+  "slide": 9,
+  "claimed": 28.75,
+  "recomputed": 28.75,
+  "match": true,
+  "kind": "check"
+ },
+ "US 750 mL wines still in the June 2026 catalogue (store site shows 0 stores)": {
+  "slide": 9,
+  "claimed": 267,
+  "recomputed": 267,
+  "match": true,
+  "kind": "check"
+ },
+ "LMR wholesale $/L change, Portugal %": {
+  "slide": 12,
+  "claimed": -2.5,
+  "recomputed": -2.5,
+  "match": true,
+  "kind": "check"
+ },
+ "LMR wholesale $/L change, Australia %": {
+  "slide": 12,
+  "claimed": 2.4,
+  "recomputed": 2.4,
+  "match": true,
+  "kind": "check"
+ },
+ "LMR wholesale $/L change, France %": {
+  "slide": 12,
+  "claimed": 4.1,
+  "recomputed": 4.1,
+  "match": true,
+  "kind": "check"
+ },
+ "LMR wholesale $/L change, Italy %": {
+  "slide": 12,
+  "claimed": 2.9,
+  "recomputed": 2.9,
+  "match": true,
+  "kind": "check"
+ },
+ "LMR wholesale $/L change, Spain %": {
+  "slide": 12,
+  "claimed": -2.5,
+  "recomputed": -2.5,
+  "match": true,
+  "kind": "check"
+ },
+ "LMR wholesale $/L change, Chile %": {
+  "slide": 12,
+  "claimed": 0.6,
+  "recomputed": 0.6,
+  "match": true,
+  "kind": "check"
+ },
+ "LMR wholesale $/L change, All wine %": {
+  "slide": 12,
+  "claimed": 0.9,
+  "recomputed": 0.9,
+  "match": true,
+  "kind": "check"
+ },
+ "LMR US volume change %": {
+  "slide": 12,
+  "claimed": -85,
+  "recomputed": -85,
+  "match": true,
+  "kind": "check"
+ },
+ "LMR: every recommended origin moved < 5%": {
+  "slide": 9,
+  "claimed": true,
+  "recomputed": true,
+  "match": true,
+  "kind": "check"
+ }
+}

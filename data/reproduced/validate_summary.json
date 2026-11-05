@@ -1,0 +1,669 @@
+{
+ "portuguese_red_all": {
+  "label": "Portuguese red, all matched",
+  "n": 11,
+  "positive": 9,
+  "mean": 1.75,
+  "bc_median": 26.99,
+  "reviews_per_wine_median": 3.0,
+  "bottles": [
+   {
+    "bc_name": "SETUBAL - JOSE MARIA DA FONSECA PERIQUITA",
+    "bc_price": 11.47,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 0.53,
+    "n_reviews": 5,
+    "match_source": "manual"
+   },
+   {
+    "bc_name": "LISBOA - CASA SANTOS LIMA LAB",
+    "bc_price": 13.49,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": -1.07,
+    "n_reviews": 1,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "DOURO - VICENTE FARIA ANIMUS",
+    "bc_price": 13.99,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": -2.36,
+    "n_reviews": 2,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "DOURO - PORCA DE MURCA",
+    "bc_price": 13.99,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 1.28,
+    "n_reviews": 2,
+    "match_source": "manual"
+   },
+   {
+    "bc_name": "DOURO - QUINTA DOS ACIPRESTES",
+    "bc_price": 22.99,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 1.8,
+    "n_reviews": 2,
+    "match_source": "manual"
+   },
+   {
+    "bc_name": "DOURO - QUINTA DAS CARVALHAS",
+    "bc_price": 26.99,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 3.03,
+    "n_reviews": 3,
+    "match_source": "manual"
+   },
+   {
+    "bc_name": "DAO - VINHA PAZ RED BLEND 2022",
+    "bc_price": 33.99,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 1.31,
+    "n_reviews": 4,
+    "match_source": "manual"
+   },
+   {
+    "bc_name": "DOURO - QUINTA DO VALE MEAO MEANDRO",
+    "bc_price": 37.99,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 2.52,
+    "n_reviews": 3,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "DAO RESERVA - VINHA PAZ 2021",
+    "bc_price": 48.99,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 4.15,
+    "n_reviews": 5,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "DOURO - QUINTA DO VALE MEAO 2020",
+    "bc_price": 215.99,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 3.62,
+    "n_reviews": 6,
+    "match_source": "manual"
+   },
+   {
+    "bc_name": "DOURO - CASA FERREIRINHA BARCA VELHA",
+    "bc_price": 550.0,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 4.4,
+    "n_reviews": 1,
+    "match_source": "rule"
+   }
+  ]
+ },
+ "portuguese_red_le_15": {
+  "label": "Portuguese red, CA$15 or less",
+  "n": 4,
+  "positive": 2,
+  "mean": -0.4,
+  "bc_median": 13.74,
+  "reviews_per_wine_median": 2.0,
+  "bottles": [
+   {
+    "bc_name": "SETUBAL - JOSE MARIA DA FONSECA PERIQUITA",
+    "bc_price": 11.47,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 0.53,
+    "n_reviews": 5,
+    "match_source": "manual"
+   },
+   {
+    "bc_name": "LISBOA - CASA SANTOS LIMA LAB",
+    "bc_price": 13.49,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": -1.07,
+    "n_reviews": 1,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "DOURO - VICENTE FARIA ANIMUS",
+    "bc_price": 13.99,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": -2.36,
+    "n_reviews": 2,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "DOURO - PORCA DE MURCA",
+    "bc_price": 13.99,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 1.28,
+    "n_reviews": 2,
+    "match_source": "manual"
+   }
+  ]
+ },
+ "portuguese_red_15_40": {
+  "label": "Portuguese red, CA$15-40",
+  "n": 4,
+  "positive": 4,
+  "mean": 2.16,
+  "bc_median": 30.490000000000002,
+  "reviews_per_wine_median": 3.0,
+  "bottles": [
+   {
+    "bc_name": "DOURO - QUINTA DOS ACIPRESTES",
+    "bc_price": 22.99,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 1.8,
+    "n_reviews": 2,
+    "match_source": "manual"
+   },
+   {
+    "bc_name": "DOURO - QUINTA DAS CARVALHAS",
+    "bc_price": 26.99,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 3.03,
+    "n_reviews": 3,
+    "match_source": "manual"
+   },
+   {
+    "bc_name": "DAO - VINHA PAZ RED BLEND 2022",
+    "bc_price": 33.99,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 1.31,
+    "n_reviews": 4,
+    "match_source": "manual"
+   },
+   {
+    "bc_name": "DOURO - QUINTA DO VALE MEAO MEANDRO",
+    "bc_price": 37.99,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 2.52,
+    "n_reviews": 3,
+    "match_source": "rule"
+   }
+  ]
+ },
+ "portuguese_red_le_25": {
+  "label": "Portuguese red, CA$25 or less",
+  "n": 5,
+  "positive": 3,
+  "mean": 0.04,
+  "bc_median": 13.99,
+  "reviews_per_wine_median": 2.0,
+  "bottles": [
+   {
+    "bc_name": "SETUBAL - JOSE MARIA DA FONSECA PERIQUITA",
+    "bc_price": 11.47,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 0.53,
+    "n_reviews": 5,
+    "match_source": "manual"
+   },
+   {
+    "bc_name": "LISBOA - CASA SANTOS LIMA LAB",
+    "bc_price": 13.49,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": -1.07,
+    "n_reviews": 1,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "DOURO - VICENTE FARIA ANIMUS",
+    "bc_price": 13.99,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": -2.36,
+    "n_reviews": 2,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "DOURO - PORCA DE MURCA",
+    "bc_price": 13.99,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 1.28,
+    "n_reviews": 2,
+    "match_source": "manual"
+   },
+   {
+    "bc_name": "DOURO - QUINTA DOS ACIPRESTES",
+    "bc_price": 22.99,
+    "we_variety": "Portuguese Red",
+    "low_mean_resid": 1.8,
+    "n_reviews": 2,
+    "match_source": "manual"
+   }
+  ]
+ },
+ "shiraz_and_blends": {
+  "label": "Australian Shiraz incl. Shiraz blends",
+  "n": 10,
+  "positive": 9,
+  "mean": 1.36,
+  "bc_median": 39.99,
+  "reviews_per_wine_median": 2.0,
+  "bottles": [
+   {
+    "bc_name": "SHIRAZ - YELLOW TAIL",
+    "bc_price": 11.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.78,
+    "n_reviews": 1,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ - WAKEFIELD CLARE VALLEY 2021",
+    "bc_price": 15.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.86,
+    "n_reviews": 3,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ CABERNET SAUVIGNON - PENFOLDS KOONUNGA HILL",
+    "bc_price": 19.99,
+    "we_variety": "Shiraz-Cabernet Sauvignon",
+    "low_mean_resid": 0.84,
+    "n_reviews": 1,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ - PETER LEHMANN BAROSSA PORTRAIT",
+    "bc_price": 19.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.5,
+    "n_reviews": 2,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ - MILES FROM NOWHERE",
+    "bc_price": 30.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.57,
+    "n_reviews": 1,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ - PENFOLDS BIN 28 KALIMNA 2022",
+    "bc_price": 48.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.79,
+    "n_reviews": 2,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ- PENFOLDS BIN 128 COONAWARRA 2019",
+    "bc_price": 49.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.05,
+    "n_reviews": 4,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ - PENFOLDS MAGILL ESTATE 2018",
+    "bc_price": 154.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": -0.42,
+    "n_reviews": 1,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ - PENFOLDS ST. HENRI 2020",
+    "bc_price": 164.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.84,
+    "n_reviews": 3,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ - PENFOLDS GRANGE 2019",
+    "bc_price": 960.0,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.75,
+    "n_reviews": 4,
+    "match_source": "rule"
+   }
+  ]
+ },
+ "shiraz_single_variety": {
+  "label": "Australian Shiraz, single variety",
+  "n": 9,
+  "positive": 8,
+  "mean": 1.41,
+  "bc_median": 48.99,
+  "reviews_per_wine_median": 2.0,
+  "bottles": [
+   {
+    "bc_name": "SHIRAZ - YELLOW TAIL",
+    "bc_price": 11.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.78,
+    "n_reviews": 1,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ - WAKEFIELD CLARE VALLEY 2021",
+    "bc_price": 15.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.86,
+    "n_reviews": 3,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ - PETER LEHMANN BAROSSA PORTRAIT",
+    "bc_price": 19.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.5,
+    "n_reviews": 2,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ - MILES FROM NOWHERE",
+    "bc_price": 30.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.57,
+    "n_reviews": 1,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ - PENFOLDS BIN 28 KALIMNA 2022",
+    "bc_price": 48.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.79,
+    "n_reviews": 2,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ- PENFOLDS BIN 128 COONAWARRA 2019",
+    "bc_price": 49.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.05,
+    "n_reviews": 4,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ - PENFOLDS MAGILL ESTATE 2018",
+    "bc_price": 154.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": -0.42,
+    "n_reviews": 1,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ - PENFOLDS ST. HENRI 2020",
+    "bc_price": 164.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.84,
+    "n_reviews": 3,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ - PENFOLDS GRANGE 2019",
+    "bc_price": 960.0,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.75,
+    "n_reviews": 4,
+    "match_source": "rule"
+   }
+  ]
+ },
+ "shiraz_single_variety_le_25": {
+  "label": "Australian Shiraz, single variety, CA$25 or less",
+  "n": 3,
+  "positive": 3,
+  "mean": 1.71,
+  "bc_median": 15.99,
+  "reviews_per_wine_median": 2.0,
+  "bottles": [
+   {
+    "bc_name": "SHIRAZ - YELLOW TAIL",
+    "bc_price": 11.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.78,
+    "n_reviews": 1,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ - WAKEFIELD CLARE VALLEY 2021",
+    "bc_price": 15.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.86,
+    "n_reviews": 3,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "SHIRAZ - PETER LEHMANN BAROSSA PORTRAIT",
+    "bc_price": 19.99,
+    "we_variety": "Shiraz",
+    "low_mean_resid": 1.5,
+    "n_reviews": 2,
+    "match_source": "rule"
+   }
+  ]
+ },
+ "muscadet": {
+  "label": "Muscadet",
+  "n": 0,
+  "positive": 0,
+  "mean": null,
+  "bc_median": null,
+  "reviews_per_wine_median": null,
+  "bottles": []
+ },
+ "german_riesling": {
+  "label": "German Riesling",
+  "n": 9,
+  "positive": 9,
+  "mean": 2.06,
+  "bc_median": 49.99,
+  "reviews_per_wine_median": 3.0,
+  "bottles": [
+   {
+    "bc_name": "RIESLING KABINETT BRAUNEBERGER - FRITZ HAAG 2016",
+    "bc_price": 39.99,
+    "we_variety": "Riesling",
+    "low_mean_resid": 1.52,
+    "n_reviews": 4,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "RIESLING TROCKEN BRAUNEBERGER - FRITZ HAAG 2021",
+    "bc_price": 42.99,
+    "we_variety": "Riesling",
+    "low_mean_resid": 3.29,
+    "n_reviews": 1,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "RIESLING SPATLESE - DR LOOSEN ERDENER TREPPCHEN 2015",
+    "bc_price": 44.99,
+    "we_variety": "Riesling",
+    "low_mean_resid": 2.87,
+    "n_reviews": 4,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "MOSEL RIESLING SPATLESE - DR LOOSEN WEHLENER SONNENUHR",
+    "bc_price": 45.99,
+    "we_variety": "Riesling",
+    "low_mean_resid": 1.76,
+    "n_reviews": 4,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "MOSEL RIESLING SPATLESE - DR LOOSEN URZIGER WURZGARTEN",
+    "bc_price": 49.99,
+    "we_variety": "Riesling",
+    "low_mean_resid": 2.13,
+    "n_reviews": 4,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "RIESLING - DR LOOSEN ERDENER TREPPCHEN GG ALTE REBEN 18",
+    "bc_price": 65.99,
+    "we_variety": "Riesling",
+    "low_mean_resid": 3.01,
+    "n_reviews": 1,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "RIESLING SPATLESE - ROBERT WEIL RHEINGAU 2021",
+    "bc_price": 75.99,
+    "we_variety": "Riesling",
+    "low_mean_resid": 1.18,
+    "n_reviews": 2,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "RIESLING TROCKEN - ROBERT WEIL KIEDRICH GRAFENBERG G G 2021",
+    "bc_price": 119.99,
+    "we_variety": "Riesling",
+    "low_mean_resid": 0.85,
+    "n_reviews": 3,
+    "match_source": "rule"
+   },
+   {
+    "bc_name": "RIESLING - EGON MULLER SCHARZHOF 2022",
+    "bc_price": 139.99,
+    "we_variety": "Riesling",
+    "low_mean_resid": 1.97,
+    "n_reviews": 2,
+    "match_source": "rule"
+   }
+  ]
+ },
+ "all_red_white_le_25": {
+  "label": "All matched red and white, CA$25 or less",
+  "n": 138,
+  "positive": 80,
+  "mean": 0.16,
+  "bc_median": 19.49,
+  "reviews_per_wine_median": 2.0
+ },
+ "by_bc_band": [
+  {
+   "band": "CA$21 or less",
+   "n": 95,
+   "mean": 0.0,
+   "share_positive": 54.74
+  },
+  {
+   "band": "CA$22-35",
+   "n": 103,
+   "mean": 0.54,
+   "share_positive": 64.08
+  },
+  {
+   "band": "CA$36-70",
+   "n": 102,
+   "mean": 0.59,
+   "share_positive": 67.65
+  },
+  {
+   "band": "CA$71-140",
+   "n": 87,
+   "mean": 0.73,
+   "share_positive": 63.22
+  },
+  {
+   "band": "over CA$140",
+   "n": 64,
+   "mean": 0.53,
+   "share_positive": 57.81
+  }
+ ],
+ "grouped_CA22_35": [
+  {
+   "country": "Portugal",
+   "we_variety": "Portuguese Red",
+   "n": 3,
+   "mean_low_resid": 2.05,
+   "bc_med": 26.99,
+   "band": "CA$22-35",
+   "rank": 1
+  },
+  {
+   "country": "France",
+   "we_variety": "Rh\u00f4ne-style Red Blend",
+   "n": 3,
+   "mean_low_resid": 1.89,
+   "bc_med": 29.99,
+   "band": "CA$22-35",
+   "rank": 2
+  },
+  {
+   "country": "Chile",
+   "we_variety": "Cabernet Sauvignon",
+   "n": 3,
+   "mean_low_resid": 1.46,
+   "bc_med": 23.99,
+   "band": "CA$22-35",
+   "rank": 3
+  },
+  {
+   "country": "Italy",
+   "we_variety": "Sangiovese",
+   "n": 4,
+   "mean_low_resid": 1.23,
+   "bc_med": 33.99,
+   "band": "CA$22-35",
+   "rank": 4
+  },
+  {
+   "country": "Italy",
+   "we_variety": "Red Blend",
+   "n": 9,
+   "mean_low_resid": 0.91,
+   "bc_med": 27.99,
+   "band": "CA$22-35",
+   "rank": 5
+  },
+  {
+   "country": "Argentina",
+   "we_variety": "Malbec",
+   "n": 3,
+   "mean_low_resid": 0.72,
+   "bc_med": 24.99,
+   "band": "CA$22-35",
+   "rank": 6
+  },
+  {
+   "country": "US",
+   "we_variety": "Merlot",
+   "n": 4,
+   "mean_low_resid": 0.62,
+   "bc_med": 23.49,
+   "band": "CA$22-35",
+   "rank": 7
+  },
+  {
+   "country": "US",
+   "we_variety": "Chardonnay",
+   "n": 11,
+   "mean_low_resid": 0.3,
+   "bc_med": 24.49,
+   "band": "CA$22-35",
+   "rank": 8
+  }
+ ],
+ "portuguese_red_category_quantiles": {
+  "bc_n": 23,
+  "we_n": 2028,
+  "q": [
+   0.25,
+   0.5,
+   0.75
+  ],
+  "bc": [
+   13.99,
+   18.99,
+   32.99
+  ],
+  "we_usd": [
+   12.0,
+   17.0,
+   28.0
+  ],
+  "bc_over_we_at_1_40": [
+   0.83,
+   0.8,
+   0.84
+  ]
+ }
+}

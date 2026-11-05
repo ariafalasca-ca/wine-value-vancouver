@@ -1,0 +1,163 @@
+{
+ "excluded_from_primary": 8,
+ "organic_lines_dropped_in_strict": 12,
+ "max_origin_median_shift_vs_primary": 0.06,
+ "organic_pairs": [
+  {
+   "country": "Italy",
+   "bc_name": "SICILIA GRILLO - RAPITALA ORGANIC",
+   "we_title": "Tenuta Rapitalà 2016 Grillo (Sicilia)"
+  },
+  {
+   "country": "Chile",
+   "bc_name": "PINOT NOIR - CONO SUR ORGANIC",
+   "we_title": "Cono Sur 2010 Pinot Noir (Central Valley)"
+  },
+  {
+   "country": "Argentina",
+   "bc_name": "MALBEC - FINCA SOPHENIA ALTOSUR UCO VALLEY ORGANIC 2024",
+   "we_title": "Finca Sophenia 2008 Altosur Malbec (Tupungato)"
+  },
+  {
+   "country": "Chile",
+   "bc_name": "CABERNET SAUVIGNON CARMENERE SYRAH - CONO SUR ORGANIC",
+   "we_title": "Cono Sur 2011 Cabernet Sauvignon (Central Valley)"
+  },
+  {
+   "country": "Italy",
+   "bc_name": "TOSCANA - SAN FABIANO CALCINAIA CASA BOSCHINO ORGANIC 2021",
+   "we_title": "San Fabiano Calcinaia 2013 Casa Boschino Red (Toscana)"
+  },
+  {
+   "country": "US",
+   "bc_name": "CABERNET SAUVIGNON - BONTERRA ORGANIC 2020",
+   "we_title": "Bonterra 2006 Cabernet Sauvignon (Mendocino County)"
+  },
+  {
+   "country": "US",
+   "bc_name": "CHARDONNAY - BONTERRA ORGANIC MENDOCINO CTY 2021",
+   "we_title": "Bonterra 2008 Chardonnay (Mendocino County)"
+  },
+  {
+   "country": "New Zealand",
+   "bc_name": "SAUVIGNON BLANC - DOG POINT MARLBOROUGH 2023 ORGANIC",
+   "we_title": "Dog Point 2014 Sauvignon Blanc (Marlborough)"
+  },
+  {
+   "country": "France",
+   "bc_name": "MEURSAULT DOMAINE DU PAVILLON - ALBERT BICHOT ORGANIC",
+   "we_title": "Albert Bichot 2014 Domaine du Pavillon  (Meursault)"
+  },
+  {
+   "country": "Chile",
+   "bc_name": "CHARDONNAY - CONO SUR ORGANIC",
+   "we_title": "Cono Sur 2008 Chardonnay (Central Valley)"
+  },
+  {
+   "country": "France",
+   "bc_name": "COTES DU RHONE - DOMAINE MABY VARIATIONS ORGANIC",
+   "we_title": "Domaine Maby 2013 Variations Red (Côtes du Rhône)"
+  },
+  {
+   "country": "Argentina",
+   "bc_name": "MALBEC - MICHEL TORINO CUMA ORGANIC",
+   "we_title": "Michel Torino 2009 Cuma Malbec (Cafayate)"
+  }
+ ],
+ "all": {
+  "n": 459,
+  "overall_median_ratio": 1.55,
+  "median_ratio_by_origin_8plus": {
+   "Argentina": 1.3,
+   "Australia": 1.58,
+   "Chile": 1.23,
+   "France": 1.78,
+   "Germany": 1.42,
+   "Italy": 1.46,
+   "New Zealand": 1.39,
+   "Portugal": 1.3,
+   "Spain": 1.53,
+   "US": 1.6
+  },
+  "shiraz_single_variety": [
+   9,
+   8
+  ],
+  "shiraz_le_25": [
+   3,
+   3
+  ],
+  "portuguese_red": [
+   11,
+   9
+  ],
+  "german_riesling": [
+   10,
+   10
+  ]
+ },
+ "primary": {
+  "n": 451,
+  "overall_median_ratio": 1.56,
+  "median_ratio_by_origin_8plus": {
+   "Argentina": 1.3,
+   "Australia": 1.58,
+   "Chile": 1.21,
+   "France": 1.79,
+   "Germany": 1.36,
+   "Italy": 1.46,
+   "New Zealand": 1.39,
+   "Portugal": 1.35,
+   "Spain": 1.53,
+   "US": 1.6
+  },
+  "shiraz_single_variety": [
+   9,
+   8
+  ],
+  "shiraz_le_25": [
+   3,
+   3
+  ],
+  "portuguese_red": [
+   11,
+   9
+  ],
+  "german_riesling": [
+   9,
+   9
+  ]
+ },
+ "strict": {
+  "n": 439,
+  "overall_median_ratio": 1.55,
+  "median_ratio_by_origin_8plus": {
+   "Argentina": 1.3,
+   "Australia": 1.58,
+   "Chile": 1.2,
+   "France": 1.82,
+   "Germany": 1.36,
+   "Italy": 1.46,
+   "New Zealand": 1.38,
+   "Portugal": 1.35,
+   "Spain": 1.53,
+   "US": 1.6
+  },
+  "shiraz_single_variety": [
+   9,
+   8
+  ],
+  "shiraz_le_25": [
+   3,
+   3
+  ],
+  "portuguese_red": [
+   11,
+   9
+  ],
+  "german_riesling": [
+   9,
+   9
+  ]
+ }
+}

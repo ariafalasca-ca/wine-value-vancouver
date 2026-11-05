@@ -1,0 +1,9 @@
+bc_name,bc_class,bc_price,sku,we_title_regex,we_exclude_regex,reason
+SETUBAL - JOSE MARIA DA FONSECA PERIQUITA,Portugal Red Wine,11.47,25262,Jos. Maria da Fonseca .* Periquita (Original |)Red,Reserva|Superyor|Ros|Branco,BC sells the base Periquita; Wine Enthusiast lists it as Periquita Red or Periquita Original (not the Reserva or Superyor)
+DOURO - PORCA DE MURCA,Portugal Red Wine,13.99,114322,Porca de Mur.a (Tinto |)Red,Reserva|Branco,Base Porca de Murca red (Real Companhia Velha); the Reserva is excluded
+DOURO - QUINTA DOS ACIPRESTES,Portugal Red Wine,22.99,95610,Quinta dos Aciprestes (Tinto |)Red,Reserva,Base Quinta dos Aciprestes red; the Reserva and Grande Reserva are excluded
+DOURO - QUINTA DAS CARVALHAS,Portugal Red Wine,26.99,,Quinta das Carvalhas 20\d\d Red \(Douro\),Reserva|Vinhas Velhas|QV|Port,Base Quinta das Carvalhas Douro red
+DAO - VINHA PAZ RED BLEND 2022,Portugal Red Wine,33.99,,Vinha Paz 20\d\d Colheita Red,Reserva,BC 'Red Blend' is the Colheita (non-reserva) red; Reserva excluded
+DAO ENCRUZADO- QUINTA DA PELLADA,Portugal White Wine,64.99,,Alvaro Castro .* Quinta da Pellada (Branco |)White,,Same estate white (Alvaro Castro / Quinta da Pellada)
+DOURO - QUINTA DO VALE MEAO 2020,Portugal Red Wine,215.99,,Quinta do Vale Me.o 20\d\d Red \(Douro\),Meandro|Port,The estate's grand vin; Meandro (second wine) excluded
+VINHO VERDE ROSE  - ESTREIA,Portugal Rose Wine,13.99,,Viniverde .* Estreia Ros,Grande Escolha,Estreia Vinho Verde rose (Viniverde)
